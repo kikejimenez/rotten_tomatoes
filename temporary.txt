@@ -1,0 +1,3342 @@
+
+            
+                <hero-image>
+                    
+                        <button slot="content" class="trailer_play_action_button" data-thumbnail="https://resizing.flixster.com/7atcv9lpUMRNhtP-Gmr6pRJZR78=/740x380/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/451/427/thumb_493D0840-1BE8-4196-8D4A-7B431A9FF999.jpg" data-video-id="08F491C2-DC74-467E-8DB2-41CC3FE73F82" data-title="The Truman Show" data-mpx-fwsite="rotten_tomatoes_video_vod">
+                            <hero-image-poster>
+                                <div slot="poster" data-bg-image="true" data-bg-srcset="https://resizing.flixster.com/P934bgrc9otBgcl3nOm5VWbb440=/340x192/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/451/427/thumb_493D0840-1BE8-4196-8D4A-7B431A9FF999.jpg, https://resizing.flixster.com/7atcv9lpUMRNhtP-Gmr6pRJZR78=/740x380/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/451/427/thumb_493D0840-1BE8-4196-8D4A-7B431A9FF999.jpg" class="js-lazyLoad" style=" background-image: url( https://resizing.flixster.com/7atcv9lpUMRNhtP-Gmr6pRJZR78=/740x380/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/451/427/thumb_493D0840-1BE8-4196-8D4A-7B431A9FF999.jpg); -webkit-animation: overlay-fade 1s 1; -o-animation: overlay-fade 1s 1; animation: overlay-fade 1s 1;" data-revealed="true">
+                                </div>
+                                <rt-icon-cta-video slot="icon-play" data-qa="play-trailer-btn"></rt-icon-cta-video>
+                            </hero-image-poster>
+                        </button>
+                    
+                </hero-image>
+            
+
+            <div id="movie-admin-panel" class="admin_panel js-admin-panel" data-qa="movie-admin-panel"></div>
+
+            
+            
+
+            <div id="topSection">
+                
+                
+                <div class="movie-thumbnail-wrap">
+                    <div class="center">
+                        
+                            
+                                <img class="posterImage js-lazyLoad" data-src="https://resizing.flixster.com/Q4rW9f_-l9oSxEe1YaWVYy1HjJU=/206x305/v2/https://flxt.tmsimg.com/assets/p20974_p_v10_aq.jpg" src="https://resizing.flixster.com/Q4rW9f_-l9oSxEe1YaWVYy1HjJU=/206x305/v2/https://flxt.tmsimg.com/assets/p20974_p_v10_aq.jpg" data-revealed="true" style=" -webkit-animation: overlay-fade 1s 1; -o-animation: overlay-fade 1s 1; animation: overlay-fade 1s 1;">
+                            
+                        
+
+                        <div id="critics-add-article" class="hidden-xs hide js-critics-add-article">
+                            <a href="https://www.rottentomatoes.com/critics/tools/movie/?movieId=10679" data-qa="movie-critics-add-article">Add Article</a>
+                        </div>
+                    </div>
+                </div>
+
+                
+                    <!-- salt=Thranduil-91031 -->
+<div class="col-sm-17 col-xs-24 score-panel-wrap" data-qa="score-panel">
+    <div class="mop-ratings-wrap score_panel js-mop-ratings-wrap" data-has-trailer="false">
+        <hr class="mop-ratings-wrap__hr">
+        
+        
+        <h1 class="mop-ratings-wrap__title mop-ratings-wrap__title--top" data-qa="score-panel-movie-title">The Truman Show</h1>
+        <section class="mop-ratings-wrap__info">
+            <strong>Critics Consensus</strong>
+            <p class="mop-ratings-wrap__text mop-ratings-wrap__text--concensus">A funny, tender, and thought-provoking film, The Truman Show is all the more noteworthy for its remarkably prescient vision of runaway celebrity culture and a nation with an insatiable thirst for the private details of ordinary lives.</p>
+                <section class="mop-ratings-wrap__row js-scoreboard-container">
+                    <div class="mop-ratings-wrap__half">
+    
+
+    
+    
+    
+    
+        <h2 class="mop-ratings-wrap__score">
+            <a href="/m/truman_show/reviews" class="unstyled articleLink mop-ratings-wrap__icon-link" id="tomato_meter_link">
+                <span class="mop-ratings-wrap__icon meter-tomato icon big medium-xs certified-fresh"></span>
+                <span class="mop-ratings-wrap__percentage">
+                    95%
+                </span>
+            </a>
+        </h2>
+    
+
+    <div class="mop-ratings-wrap__review-totals">
+        <h3 class="mop-ratings-wrap__title mop-ratings-wrap__title--small">
+            TOMATOMETER
+        </h3>
+            <strong class="mop-ratings-wrap__text--small">Total Count: </strong>
+        <small class="mop-ratings-wrap__text--small">
+            
+                132
+            
+        </small>
+    </div>
+</div>
+
+                    <!-- salt=kilowattjuno-7207218a -->
+<div class="mop-ratings-wrap__half audience-score">
+    
+    
+    
+
+    
+    
+        
+        
+        
+    
+    
+        <h2 class="mop-ratings-wrap__score">
+            <a href="/m/truman_show/reviews?type=user" class="unstyled articleLink mop-ratings-wrap__icon-link">
+                <span class="mop-ratings-wrap__icon meter-tomato icon big medium-xs upright"></span>
+                <span class="mop-ratings-wrap__percentage">
+                    89%
+                </span>
+            </a>
+        </h2>
+        <div class="mop-ratings-wrap__review-totals mop-ratings-wrap__review-totals--not-released">
+            <h3 class="mop-ratings-wrap__title audience-score__title mop-ratings-wrap__title--small">Audience Score</h3>
+            <strong class="mop-ratings-wrap__text--small">User Ratings: 583,675</strong>
+        </div>
+    
+</div>
+
+                </section>
+    </section>
+</div>
+    <!-- salt=POP_OVER-41552 -->
+    <section class="mop-ratings-wrap__more-overlay hide-tm-overlay" id="js-tomatometer-overlay" role="dialog" aria-labelledby="scoreModal_aria_title">
+        <button class="mop-ratings-wrap__close-overlay" id="scoreModal_hideScoreboardBtn"></button>
+        <h2 id="scoreModal_aria_title" class="hide">The Truman Show Ratings &amp; Reviews Explanation</h2>
+        <div class="row js-mop-ratings">
+
+        </div>
+    </section>
+    <!-- END POP OVER-->
+    
+    
+        <div class="mop-ratings-wrap__score-detail-divider"></div>
+        <div class="mop-ratings-wrap__score-detail-container js-score-detail-container">
+            <button class="mop-ratings-wrap__score-detail-text">See score details</button>
+        </div>
+    
+    <div id="tomatometer_sponsorship_ad" class="page_ad hidden-xs ad-margin" style=""><div id="div-gpt-tomatometer-7098934" class="mps-slot" data-mps-slot="tomatometer" data-mps-loadset="0" data-google-query-id="CNeBv5X_o-0CFR_AwgQdFYINYw"><script>mps._execAd("tomatometer");</script><div id="google_ads_iframe_/2620/rottentomatoes/movie/movie_page_10__container__" style="border: 0pt none; width: 524px; height: 40px;"></div></div></div>
+</div>
+
+
+    <script>
+    var mps = mps||{}; mps._queue = mps._queue||{}; mps._queue.gptloaded = mps._queue.gptloaded||[];
+    mps._queue.gptloaded.push(function () {
+        if (mps.getResponsiveSet() != '0') { //DESKTOP or TABLET
+            mps.insertAd('#tomatometer_sponsorship_ad','tomatometer');
+        }
+    });
+    </script>
+
+
+                
+
+                
+
+                
+
+                
+  <section id="where-to-watch" class="where-to-watch panel-rt panel-box" data-qa="section:where-to-watch">
+    <h2 class=" panel-heading where-to-watch__header" data-qa="where-to-watch-header">Where to watch</h2>
+    <div class="where-to-watch__body">
+      <ul class="affiliates__list js-affiliates-list">
+    
+      <li class="affiliate__item" data-qa="affiliate-item">
+  <a class="affiliate__link affiliate__link--veneer js-affiliate-link" data-affiliate="fandango-now" target="blank" href="http://www.fandangonow.com/details/1MVf319aa98547d3b69516bf41b65792981?cmp=rt_where_to_watch" data-qa="affiliate-item-lnk">
+    <div class="affiliate__logo-group affiliate__logo-group--veneer">
+      <span class="affiliate__logo affiliate__logo--veneer affiliate__logo--fandango-now-veneer" role="img" aria-label="fandangonow"></span>
+    </div>
+    <p class="affiliate__text affiliate__text--veneer show-price hide">Rent/buy from $2.99</p>
+    <p class="affiliate__text affiliate__text--veneer no-price ">Rent/buy</p>
+  </a>
+</li>
+
+    
+      <li class="affiliate__item" data-qa="affiliate-item">
+  <a class="affiliate__link affiliate__link--veneer js-affiliate-link" data-affiliate="vudu" target="blank" href="https://www.vudu.com/content/movies/details/The-Truman-Show/13653?cmp=rt_where_to_watch" data-qa="affiliate-item-lnk">
+    <div class="affiliate__logo-group affiliate__logo-group--veneer">
+      <span class="affiliate__logo affiliate__logo--veneer affiliate__logo--vudu-veneer" role="img" aria-label="vudu"></span>
+    </div>
+    <p class="affiliate__text affiliate__text--veneer show-price hide">Rent/buy from $2.99</p>
+    <p class="affiliate__text affiliate__text--veneer no-price ">Rent/buy</p>
+  </a>
+</li>
+
+    
+      <li class="affiliate__item" data-qa="affiliate-item">
+  <a class="affiliate__link affiliate__link--veneer js-affiliate-link" data-affiliate="amazon-prime-video-us" target="blank" href="http://www.amazon.com/gp/product/B00D5EEZEA/ref=pv_ag_gcf?cmp=rt_where_to_watch" data-qa="affiliate-item-lnk">
+    <div class="affiliate__logo-group affiliate__logo-group--veneer">
+      <span class="affiliate__logo affiliate__logo--veneer affiliate__logo--amazon-prime-video-us-veneer" role="img" aria-label="amazon pv us"></span>
+    </div>
+    <p class="affiliate__text affiliate__text--veneer show-price hide">Rent/buy from $2.99</p>
+    <p class="affiliate__text affiliate__text--veneer no-price ">Rent/buy</p>
+  </a>
+</li>
+
+    
+      <li class="affiliate__item" data-qa="affiliate-item">
+  <a class="affiliate__link affiliate__link--veneer js-affiliate-link" data-affiliate="itunes" target="blank" href="https://itunes.apple.com/us/movie/the-truman-show/id311726400?cmp=rt_where_to_watch" data-qa="affiliate-item-lnk">
+    <div class="affiliate__logo-group affiliate__logo-group--veneer">
+      <span class="affiliate__logo affiliate__logo--veneer affiliate__logo--itunes-veneer" role="img" aria-label="itunes store"></span>
+    </div>
+    <p class="affiliate__text affiliate__text--veneer show-price hide">Rent/buy from $3.99</p>
+    <p class="affiliate__text affiliate__text--veneer no-price ">Rent/buy</p>
+  </a>
+</li>
+
+    
+</ul>
+    </div>
+
+    
+      <a href="javascript:void(0)" id="showMoreWhereToWatch" class="unstyled articleLink js-where-to-watch-show-up" data-qa="where-to-watch-show-more-lnk">
+        Show all services <span class="caret"></span>
+      </a>
+    
+
+  </section>
+
+
+
+                <div id="mobile-movie-image-section" class="pull-left col-full-xs visible-xs" style="text-align:center;"></div>
+                
+    
+        
+    
+    
+    <div id="affiliate_integration_button_ad" style="height:0px;display:none"></div>
+    <script>
+        var mps = mps||{}; mps._queue = mps._queue||{}; mps._queue.gptloaded = mps._queue.gptloaded||[];
+        mps._queue.gptloaded.push(function () {
+            if (mps.getResponsiveSet() != '0') { //DESKTOP or TABLET
+                mps.rt.insertlogo('#affiliate_integration_button_ad', 'ploc=affiliateintegrationbutton;');
+            }
+        });
+    </script>
+
+
+                
+                
+                    <div id="rate-and-review-widget" class="rate-and-review-widget__module">
+
+    
+        <h2 class="rate-and-review-widget__section-heading panel-heading">Rate And Review</h2>
+    
+
+    <div class="wts-ratings-group movie-wts-ratings js-wts-ratings-group wts--postRelease">
+        <button class="js-resubmit-btn rate-and-review-widget__resubmit-btn hide hidden-sm hidden-md hidden-lg">Submit review</button>
+        <div class="wts-button__container js-rating_section">
+            <button type="button" value="+" class="js-rating-wts-btn button--wts">
+                Want to see
+                <span class="wts-btn__rating-count js-rating_wts-count"></span>
+            </button>
+        </div>
+        <div id="rating-root" data-movie-id="10679" data-series-id="" data-season-id="">
+            
+                <section id="rating-widget-desktop" class="js-rate-review-widget hidden-xs rate-and-review-widget__desktop movie-rating-module">
+                    <div class="user-media-rating__component">
+                        <section class="rate-and-review-widget__container js-rate-and-review-widget-container">
+                            <div class="rate-and-review-widget review-submitted-message js-review-submitted-message hide">
+                                <div class="review-submitted-message__review-info js-review-submitted-message__review-info hide">
+                                    <a href="#" class="review-submitted-message__close-review-info js-review-submitted-message__close-review-info"></a>
+                                </div>
+                            </div>
+                            <div class="rate-and-review-widget__review-container">
+                                <div class="rate-and-review-widget__container-top">
+                                    <button class="js-rating-widget-edit-icon-btn rate-and-review-widget__icon-edit rate-and-review-widget__icon-edit--hidden">Edit</button>
+                                    <div class="js-rating-widget-initial-desktop-stars rate-and-review-widget__stars">
+                                        
+                                        
+                                        
+                                        
+                                        <span class="star-display js-star-display js-rating-stars js-satellite  " data-fanreviewstarttype="star">
+  <span class="star-display__desktop star-display__empty">
+    <span class="js-modal-star-widget js-rating-star star-display__overlay star-display__half--left " data-side="left" data-rating-value="0.5" data-title="Oof, that was Rotten."></span>
+    <span class="js-modal-star-widget js-rating-star star-display__overlay star-display__half--right " data-side="right" data-rating-value="1" data-title="Oof, that was Rotten."></span>
+  </span>
+  
+  <span class="star-display__desktop star-display__empty">
+      <span class="js-modal-star-widget js-rating-star star-display__overlay star-display__half--left " data-side="left" data-rating-value="1.5" data-title="Oof, that was Rotten."></span>
+      <span class="js-modal-star-widget js-rating-star star-display__overlay star-display__half--right " data-side="right" data-rating-value="2" data-title="Meh, it passed the time."></span>
+  </span>
+
+  <span class="star-display__desktop star-display__empty">
+      <span class="js-modal-star-widget js-rating-star star-display__overlay star-display__half--left " data-side="left" data-rating-value="2.5" data-title="Meh, it passed the time."></span>
+      <span class="js-modal-star-widget js-rating-star star-display__overlay star-display__half--right " data-side="right" data-rating-value="3" data-title="Meh, it passed the time."></span>
+  </span>
+
+  <span class="star-display__desktop star-display__empty">
+      <span class="js-modal-star-widget js-rating-star star-display__overlay star-display__half--left " data-side="left" data-rating-value="3.5" data-title="It’s good – I’d recommend it."></span>
+      <span class="js-modal-star-widget js-rating-star star-display__overlay star-display__half--right " data-side="right" data-rating-value="4" data-title="Awesome!"></span>
+  </span>
+
+  <span class="star-display__desktop star-display__empty">
+      <span class="js-modal-star-widget js-rating-star star-display__overlay star-display__half--left " data-side="left" data-rating-value="4.5" data-title="Awesome!"></span>
+      <span class="js-modal-star-widget js-rating-star star-display__overlay star-display__half--right " data-side="right" data-rating-value="5" data-title="So Fresh: Absolute Must See!"></span>
+  </span>
+</span>
+                                    </div>
+                                    <button class="js-resubmit-btn rate-and-review-widget__resubmit-btn hide">Submit review</button>
+                                    <div class="js-rate-and-review-widget-header rate-and-review-widget__header hide">
+                                        <div class="rate-and-review-widget__user-thumbnail">
+                                            <img alt="User image" role="presentation" class="js-rating-widget-user-thumb js-lazyLoad" data-src="/assets/pizza-pie/images/shared/actor.default.tmb.d17de9e26da.gif" src="/assets/pizza-pie/images/shared/actor.default.tmb.d17de9e26da.gif" data-revealed="true" style=" -webkit-animation: overlay-fade 1s 1; -o-animation: overlay-fade 1s 1; animation: overlay-fade 1s 1;">
+                                        </div>
+                                        <div class="rate-and-review-widget__user-info">
+                                            <span class="rate-and-review-widget__username js-rating-widget-username"></span>
+                                            <strong class="super-reviewer-badge super-reviewer-badge--hidden js-rating-widget-super-reviewer">Super Reviewer</strong>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="rate-and-review-widget__user-comment-area">
+                                    <div class="rate-and-review-widget__comment-box-wrap">
+                                        
+                                            
+                                        
+                                        <textarea class="rate-and-review-widget__textbox-textarea js-rating-textbox-textarea js-satellite" placeholder="What did you think of the movie? (optional)" autocomplete="off" data-fanreviewstarttype="text box"></textarea>
+                                        <div class="js-rating-widget-reviewed-container rate-and-review-widget__reviewed-container--hidden">
+                                            <div class="rate-and-review-widget__desktop-stars-wrap">
+                                                <div class="rate-and-review-widget__mobile-stars">
+                                                    <div id="stars-rating-static-module" class="js-stars-rating-static-container js-satellite stars-rating-static__container stars-rating__container--is-not-rated" aria-label="rating from 0.5 to 5 stars" role="radiogroup" data-current-rating="" data-fanreviewstarttype="star">
+  <span class="icon-star  js-star-rating-static" data-rating="0.5" data-message="Oof, that was Rotten." aria-label=".5 stars, Oof, that was Rotten." role="radio" tabindex="0"></span>
+  <span class="icon-star icon-star--full  js-star-rating-static" data-rating="1" data-message="Oof, that was Rotten." aria-label="1 stars, Oof, that was Rotten." role="radio" tabindex="0"></span>
+  <span class="icon-star  js-star-rating-static" data-rating="1.5" data-message="Oof, that was Rotten." aria-label="1.5 stars, Oof, that was Rotten." role="radio" tabindex="0"></span>
+  <span class="icon-star icon-star--full  js-star-rating-static" data-rating="2" data-message="Meh, it passed the time." aria-label="2 stars, Meh, it passed the time" role="radio" tabindex="0"></span>
+  <span class="icon-star  js-star-rating-static" data-rating="2.5" data-message="Meh, it passed the time." aria-label="2.5 stars, Meh, it passed the time" role="radio" tabindex="0"></span>
+  <span class="icon-star icon-star--full  js-star-rating-static" data-rating="3" data-message="Meh, it passed the time." aria-label="3 stars, Meh, it passed the time" role="radio" tabindex="0"></span>
+  <span class="icon-star  js-star-rating-static" data-rating="3.5" data-message="It’s good – I’d recommend it." aria-label="3.5 stars, It’s good – I’d recommend it." role="radio" tabindex="0"></span>
+  <span class="icon-star icon-star--full  js-star-rating-static" data-rating="4" data-message="Awesome!" aria-label="4 stars, Awesome!" role="radio" tabindex="0"></span>
+  <span class="icon-star  js-star-rating-static" data-rating="4.5" data-message="Awesome!" aria-label="4.5 stars, Awesome!" role="radio" tabindex="0"></span>
+  <span class="icon-star icon-star--full  js-star-rating-static" data-rating="5" data-message="So Fresh: Absolute Must See!" aria-label="5 stars, So Fresh: Absolute Must See!" role="radio" tabindex="0"></span>
+</div>
+
+                                                </div>
+                                                <p class="rate-and-review-widget__is-verified js-rating-widget-is-verified hide">Verified</p>
+                                                <p class="rate-and-review-widget__duration-since-rating-creation js-rating-widget-duration-since-rating-creation hide"></p>
+                                            </div>
+                                          <p class="rate-and-review-widget__comment js-rating-widget-comment hide"></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </section>
+
+                <section id="rating-widget-mobile" class="rate-and-review-widget__mobile clearfix">
+                    <div class="rate-and-review-widget review-submitted-message js-review-submitted-message hide">
+                        <div class="review-submitted-message__review-info js-review-submitted-message__review-info hide">
+                            <a href="#" class="review-submitted-message__close-review-info js-review-submitted-message__close-review-info"></a>
+                        </div>
+                    </div>
+                    <div class="rate-and-review-widget__review-container--mobile">
+                        <div class="js-rate-and-review-widget-mobile-header rate-and-review-widget__header rate-and-review-widget__mobile-header hide">
+                            <div class="rate-and-review-widget__user-thumbnail rate-and-review-widget__user-thumbnail">
+                                <img alt="User image" class="js-rating-widget-user-thumb js-lazyLoad" data-src="/assets/pizza-pie/images/shared/actor.default.tmb.d17de9e26da.gif" src="/assets/pizza-pie/images/shared/actor.default.tmb.d17de9e26da.gif" data-revealed="true" style=" -webkit-animation: overlay-fade 1s 1; -o-animation: overlay-fade 1s 1; animation: overlay-fade 1s 1;">
+                            </div>
+                            <div class="rate-and-review-widget__user-info">
+                                <span class="rate-and-review-widget__mobile-username js-rating-widget-username"></span>
+                                <strong class="super-reviewer-badge super-reviewer-badge--hidden js-rating-widget-super-reviewer">Super Reviewer</strong>
+                            </div>
+                        </div>
+
+                        <div class="text-center js-rating-widget-mobile-wrap rate-and-review-widget__mobile-stars-wrap">
+                            <div class="js-rating-widget-mobile-stars-wrap rate-and-review-widget__mobile-stars">
+                                
+                                <div id="stars-rating-static-module" class="js-stars-rating-static-container js-satellite stars-rating-static__container stars-rating__container--is-not-rated" aria-label="rating from 0.5 to 5 stars" role="radiogroup" data-current-rating="" data-fanreviewstarttype="star">
+  <span class="icon-star star-rating-static__mobile js-star-rating-static" data-rating="0.5" data-message="Oof, that was Rotten." aria-label=".5 stars, Oof, that was Rotten." role="radio" tabindex="0"></span>
+  <span class="icon-star icon-star--full star-rating-static__mobile js-star-rating-static" data-rating="1" data-message="Oof, that was Rotten." aria-label="1 stars, Oof, that was Rotten." role="radio" tabindex="0"></span>
+  <span class="icon-star star-rating-static__mobile js-star-rating-static" data-rating="1.5" data-message="Oof, that was Rotten." aria-label="1.5 stars, Oof, that was Rotten." role="radio" tabindex="0"></span>
+  <span class="icon-star icon-star--full star-rating-static__mobile js-star-rating-static" data-rating="2" data-message="Meh, it passed the time." aria-label="2 stars, Meh, it passed the time" role="radio" tabindex="0"></span>
+  <span class="icon-star star-rating-static__mobile js-star-rating-static" data-rating="2.5" data-message="Meh, it passed the time." aria-label="2.5 stars, Meh, it passed the time" role="radio" tabindex="0"></span>
+  <span class="icon-star icon-star--full star-rating-static__mobile js-star-rating-static" data-rating="3" data-message="Meh, it passed the time." aria-label="3 stars, Meh, it passed the time" role="radio" tabindex="0"></span>
+  <span class="icon-star star-rating-static__mobile js-star-rating-static" data-rating="3.5" data-message="It’s good – I’d recommend it." aria-label="3.5 stars, It’s good – I’d recommend it." role="radio" tabindex="0"></span>
+  <span class="icon-star icon-star--full star-rating-static__mobile js-star-rating-static" data-rating="4" data-message="Awesome!" aria-label="4 stars, Awesome!" role="radio" tabindex="0"></span>
+  <span class="icon-star star-rating-static__mobile js-star-rating-static" data-rating="4.5" data-message="Awesome!" aria-label="4.5 stars, Awesome!" role="radio" tabindex="0"></span>
+  <span class="icon-star icon-star--full star-rating-static__mobile js-star-rating-static" data-rating="5" data-message="So Fresh: Absolute Must See!" aria-label="5 stars, So Fresh: Absolute Must See!" role="radio" tabindex="0"></span>
+</div>
+
+                            </div>
+                            <p class="rate-and-review-widget__is-verified js-rating-widget-is-verified hide">Verified</p>
+                            <p class="rate-and-review-widget__duration-since-rating-creation js-rating-widget-duration-since-rating-creation hide"></p>
+                        </div>
+
+                        <div class="rate-and-review-widget__mobile-comment js-rating-widget-comment hide"></div>
+                    </div>
+                    <button type="button" value="+" class="rate-and-review-widget__mobile-edit-btn hide js-edit-review-mobile-btn js-edit-review-btn" data-fanreviewstarttype="edit">
+                        Edit
+                  </button>
+                </section>
+            
+
+            <aside class="rate-and-review rate-and-review--hidden multi-page-modal js-multi-page-modal"></aside>
+            <ul class="rate-and-review multi-page-modal multi-page-modal-content-wrap">
+    <li id="rate-and-review-submission">
+  <header class="multi-page-modal__header">
+      <div class="userInfo__group">
+          <div class="userInfo__image-group">
+              <img alt="User image" class="js-rating-widget-user-thumb userInfo__image" width="44px" height="44px" src="/assets/pizza-pie/images/shared/actor.default.tmb.d17de9e26da.gif" data-revealed="true">
+          </div>
+          <div class="userInfo__name-group">
+              <h3 class="userInfo__name js-rating-widget-username"></h3>
+              <p class="userInfo__superReviewer js-rating-widget-super-reviewer super-reviewer-badge super-reviewer-badge--hidden">Super Reviewer</p>
+          </div>
+      <button class="js-close-multi-page-modal multi-page-modal__close" data-step="review"></button>
+      </div>
+  </header>
+
+  <div class="rate-and-review__body multi-page-modal__body">
+      <div class="rate-and-review__submission-group">
+          <div id="stars-rating-module" class="stars-rating__container stars-rating__container--is-not-rated" aria-label="rating from 0.5 to 5 stars" role="radiogroup" data-current-rating="">
+  <div class="stars-rating__msg-group">
+    <p class="stars-rating__msg js-star-rating-message" data-star-upper-threshold="0" data-star-lower-threshold="0">Rate this movie</p>
+    <p class="stars-rating__msg js-star-rating-message" data-star-upper-threshold="1.5" data-star-lower-threshold="0.5">Oof, that was Rotten.</p>
+    <p class="stars-rating__msg js-star-rating-message" data-star-upper-threshold="3" data-star-lower-threshold="2">Meh, it passed the time.</p>
+    <p class="stars-rating__msg js-star-rating-message" data-star-upper-threshold="3.5" data-star-lower-threshold="3.5">It’s good – I’d recommend it.</p>
+    <p class="stars-rating__msg js-star-rating-message" data-star-upper-threshold="4.5" data-star-lower-threshold="4">Awesome!</p>
+    <p class="stars-rating__msg js-star-rating-message" data-star-upper-threshold="5" data-star-lower-threshold="5">So Fresh: Absolute Must See!</p>
+  </div>
+
+  <span class="stars-rating__tooltip js-stars-rating-tooltip" data-text=" NEW! Tap, hold and swipe to select a rating."></span>
+
+  <div class="stars-rating__stars-group js-stars-rating-group">
+    <span class="icon-star icon-star--half js-star-rating-draggable" data-rating="0.5" data-message="Oof, that was Rotten." aria-label=".5 stars, Oof, that was Rotten." role="radio" tabindex="0"></span>
+    <span class="icon-star icon-star--full js-star-rating-draggable" data-rating="1" data-message="Oof, that was Rotten." aria-label="1 stars, Oof, that was Rotten." role="radio" tabindex="0"></span>
+    <span class="icon-star icon-star--half js-star-rating-draggable" data-rating="1.5" data-message="Oof, that was Rotten." aria-label="1.5 stars, Oof, that was Rotten." role="radio" tabindex="0"></span>
+    <span class="icon-star icon-star--full js-star-rating-draggable" data-rating="2" data-message="Meh, it passed the time." aria-label="2 stars, Meh, it passed the time" role="radio" tabindex="0"></span>
+    <span class="icon-star icon-star--half js-star-rating-draggable" data-rating="2.5" data-message="Meh, it passed the time." aria-label="2.5 stars, Meh, it passed the time" role="radio" tabindex="0"></span>
+    <span class="icon-star icon-star--full js-star-rating-draggable" data-rating="3" data-message="Meh, it passed the time." aria-label="3 stars, Meh, it passed the time" role="radio" tabindex="0"></span>
+    <span class="icon-star icon-star--half js-star-rating-draggable" data-rating="3.5" data-message="It’s good – I’d recommend it." aria-label="3.5 stars, It’s good – I’d recommend it." role="radio" tabindex="0"></span>
+    <span class="icon-star icon-star--full js-star-rating-draggable" data-rating="4" data-message="Awesome!" aria-label="4 stars, Awesome!" role="radio" tabindex="0"></span>
+    <span class="icon-star icon-star--half js-star-rating-draggable" data-rating="4.5" data-message="Awesome!" aria-label="4.5 stars, Awesome!" role="radio" tabindex="0"></span>
+    <span class="icon-star icon-star--full js-star-rating-draggable" data-rating="5" data-message="So Fresh: Absolute Must See!" aria-label="5 stars, So Fresh: Absolute Must See!" role="radio" tabindex="0"></span>
+  </div>
+</div>
+          
+          <div class="js-rate-and-review-textarea-group rate-and-review__textarea-group rate-and-review__textarea-group--hidden">
+              <h3 class="js-rate-and-review-textarea-header rate-and-review__textarea-header">What did you think of the movie? <span>(optional)</span></h3>
+              <div class="rate-and-review__textarea textarea-with-counter">
+                  <textarea class="js-textarea-with-counter-text textarea-with-counter__text" placeholder="Your review helps others find great movies and shows to watch. Please share your honest experience on what you liked or disliked."></textarea>
+              </div>
+          </div>
+          <div class="rate-and-review__submit-btn-container">
+          
+              <button class="js-next-submit-btn rate-and-review__submit-btn" disabled="">Submit</button>
+          
+      </div>
+  </div>
+</div></li>
+
+    <li id="interstitial">
+  <header class="interstitial__header">
+      <button class="js-close-multi-page-modal multi-page-modal__close" data-step="interstitial"></button>
+      <div class="interstitial__steps-container">
+          <span class="interstitial__circle interstitial__circle--check js-interstitial__circle--check js-interstitial__light-color interstitial-color-transition"></span>
+          <hr class="interstitial__line js-interstitial__main-color">
+          <span class="interstitial__circle interstitial__circle--two js-interstitial__circle--two js-interstitial__main-color interstitial-color-transition"></span>
+      </div>
+      <hr class="interstitial__section-divider js-interstitial__main-color">
+  </header>
+  <div class="interstitial__body multi-page-modal__body">
+      <p class="interstitial__description js-interstitial__main-color interstitial-color-transition">You're almost there! Just confirm how you got your ticket.</p>
+      <img class="js-interstitial-image" alt="">
+      <p class="js-interstitial__main-color js-interstitial-explanation interstitial-explanation interstitial-color-transition"></p>
+      <button class="js-continue-btn interstitial__continue-btn button--link">Continue</button>
+  </div>
+</li>
+    <li id="vas-submission">
+  <header class="multi-page-modal__header js-rate-and-review-modal-header">
+      <div class="userInfo__group">
+          <div class="userInfo__image-group">
+              <img alt="User image" class="js-rating-widget-user-thumb userInfo__image" width="44px" height="44px" src="/assets/pizza-pie/images/shared/actor.default.tmb.d17de9e26da.gif" data-revealed="true">
+          </div>
+          <div class="userInfo__name-group">
+              <h3 class="userInfo__name js-rating-widget-username"></h3>
+              <p class="userInfo__superReviewer js-rating-widget-super-reviewer super-reviewer-badge super-reviewer-badge--hidden">Super Reviewer</p>
+          </div>
+      </div>
+      <button class="js-close-multi-page-modal multi-page-modal__close" data-step="verify"></button>
+  </header>
+  <div class="verify-ticket__body multi-page-modal__body">
+      <div class="verify-ticket__content-button-container">
+          <div class="js-verify-ticket-content verify-ticket__content">
+              <p class="multi-page-modal__step">Step 2 of 2</p>
+              <h3 class="verify-ticket__header">How did you buy your ticket?</h3>
+              <h4 class="verify-ticket__subHeader">Let's get your review verified.</h4>
+              <div class="verify-ticket__theaters">
+                  <ul class="verify-ticket__desktop-left-theater-container">
+                  
+                        
+                            <li class="js-verified-ticket-vendor verify-ticket__theater rt-dropdown__providers--fandango" data-vendor="FANDANGO" tabindex="0">
+                                <p class="verify-ticket__theater-name">Fandango
+                                    
+                                </p>
+                                
+                            </li>
+                        
+                  
+                        
+                            <li class="js-verified-ticket-vendor verify-ticket__theater rt-dropdown__providers--amc" data-vendor="AMC" tabindex="0">
+                                <p class="verify-ticket__theater-name">AMCTheatres.com or AMC App<span class="js-verified-ticket-new-tag verify-ticket__tag--new">New</span></p>
+                                
+                                    <div class="js-verified-ticket-input-message-container verify-ticket__input-message-container">
+                                        <label class="js-verified-ticket-disclaimer">Enter your Ticket Confirmation# located in your email.<a class="verified-ticket__help-btn--amc js-amc-help-btn">More Info</a>
+                                        </label>
+                                        <div class="verify-ticket__numerical-input-container">
+                                            <input type="tel" pattern="[0-9]*" name="amc_confirmation_number" placeholder="1234567890" class="js-verify-ticket-number-input verify-ticket__number-input">
+                                            <button class="js-verify-ticket-cancel-btn verify-ticket__cancel-btn hide"></button>
+                                        </div>
+                                        <p class="js-verify-ticket-input-error-message verify-ticket__input-error-message hide"></p>
+                                    </div>
+                                
+                            </li>
+                        
+                  
+                        
+                            <li class="js-verified-ticket-vendor verify-ticket__theater rt-dropdown__providers--cinemark" data-vendor="" tabindex="0">
+                                <p class="verify-ticket__theater-name">Cinemark
+                                    
+                                        <span class="verify-ticket__tag">Coming Soon</span>
+                                    
+                                </p>
+                                
+                                    <p class="js-verified-ticket-disclaimer verify-ticket__disclaimer">We won’t be able to verify your ticket today, but it’s great to know for the future.</p>
+                                
+                            </li>
+                        
+                  
+                    </ul>
+                  <ul class="verify-ticket__desktop-right-theater-container">
+                  
+                      <li class="js-verified-ticket-vendor verify-ticket__theater rt-dropdown__providers--regal" data-vendor="" tabindex="0">
+                          <p class="verify-ticket__theater-name">Regal
+                              
+                                  <span class="verify-ticket__tag">Coming Soon</span>
+                              
+                          </p>
+                          
+                              <p class="js-verified-ticket-disclaimer verify-ticket__disclaimer">We won’t be able to verify your ticket today, but it’s great to know for the future.</p>
+                          
+                      </li>
+                  
+                      <li class="js-verified-ticket-vendor verify-ticket__theater " data-vendor="" tabindex="0">
+                          <p class="verify-ticket__theater-name">Theater box office or somewhere else
+                              
+                          </p>
+                          
+                      </li>
+                  
+                  </ul>
+              </div>
+          </div>
+          <div class="verify-ticket__button-disclaimer-group js-verify-btn-group">
+              <button class="js-submit-review verify-ticket__submit-btn">Submit</button>
+              <p class="js-verify-ticket-legal verify-ticket__legal hide">By opting to have your ticket verified for this movie, you are allowing us to check the email address associated with your Rotten Tomatoes account against an email address associated with a Fandango ticket purchase for the same movie.</p>
+          </div>
+      </div>
+      <div class="js-verify-ticket-interstitial-container-desktop verify-ticket__interstitial-sequence_container-desktop">
+          <h3>You're almost there! Just confirm how you got your ticket.</h3>
+          <div class="verify-ticket-ticket__interstitial-desktop-step-container verify-ticket-ticket__interstitial-desktop-red-step-container">
+              <img src="">
+              <p></p>
+          </div>
+          <div class=" verify-ticket-ticket__interstitial-desktop-step-container verify-ticket-ticket__interstitial-desktop-green-step-container">
+              <img src="">
+              <p></p>
+          </div>
+          <div class="verify-ticket-ticket__interstitial-desktop-step-container verify-ticket-ticket__interstitial-desktop-blue-step-container">
+              <img src="">
+              <p></p>
+          </div>
+      </div>
+  </div>
+</li>
+
+    <li id="edit-review-submission">
+  <header class="multi-page-modal__header js-rate-and-review-modal-header">
+      <div class="userInfo__group">
+          <div class="userInfo__image-group">
+              <img alt="User image" class="js-rating-widget-user-thumb userInfo__image" width="44px" height="44px" src="/assets/pizza-pie/images/shared/actor.default.tmb.d17de9e26da.gif">
+          </div>
+          <div class="userInfo__name-group">
+              <h3 class="userInfo__name js-rating-widget-username"></h3>
+              <p class="userInfo__superReviewer js-rating-widget-super-reviewer super-reviewer-badge super-reviewer-badge--hidden">Super Reviewer</p>
+          </div>
+      </div>
+      <button class="js-close-multi-page-modal multi-page-modal__close" data-step="review" data-flow="edit"></button>
+  </header>
+
+  <div class="edit-review__body multi-page-modal__body">
+      <div class="edit-review__submission-group">
+          <div id="stars-rating-module" class="stars-rating__container stars-rating__container--is-not-rated" aria-label="rating from 0.5 to 5 stars" role="radiogroup" data-current-rating="">
+  <div class="stars-rating__msg-group">
+    <p class="stars-rating__msg js-star-rating-message" data-star-upper-threshold="0" data-star-lower-threshold="0">Rate this movie</p>
+    <p class="stars-rating__msg js-star-rating-message" data-star-upper-threshold="1.5" data-star-lower-threshold="0.5">Oof, that was Rotten.</p>
+    <p class="stars-rating__msg js-star-rating-message" data-star-upper-threshold="3" data-star-lower-threshold="2">Meh, it passed the time.</p>
+    <p class="stars-rating__msg js-star-rating-message" data-star-upper-threshold="3.5" data-star-lower-threshold="3.5">It’s good – I’d recommend it.</p>
+    <p class="stars-rating__msg js-star-rating-message" data-star-upper-threshold="4.5" data-star-lower-threshold="4">Awesome!</p>
+    <p class="stars-rating__msg js-star-rating-message" data-star-upper-threshold="5" data-star-lower-threshold="5">So Fresh: Absolute Must See!</p>
+  </div>
+
+  <span class="stars-rating__tooltip js-stars-rating-tooltip" data-text=" NEW! Tap, hold and swipe to select a rating."></span>
+
+  <div class="stars-rating__stars-group js-stars-rating-group">
+    <span class="icon-star icon-star--half js-star-rating-draggable" data-rating="0.5" data-message="Oof, that was Rotten." aria-label=".5 stars, Oof, that was Rotten." role="radio" tabindex="0"></span>
+    <span class="icon-star icon-star--full js-star-rating-draggable" data-rating="1" data-message="Oof, that was Rotten." aria-label="1 stars, Oof, that was Rotten." role="radio" tabindex="0"></span>
+    <span class="icon-star icon-star--half js-star-rating-draggable" data-rating="1.5" data-message="Oof, that was Rotten." aria-label="1.5 stars, Oof, that was Rotten." role="radio" tabindex="0"></span>
+    <span class="icon-star icon-star--full js-star-rating-draggable" data-rating="2" data-message="Meh, it passed the time." aria-label="2 stars, Meh, it passed the time" role="radio" tabindex="0"></span>
+    <span class="icon-star icon-star--half js-star-rating-draggable" data-rating="2.5" data-message="Meh, it passed the time." aria-label="2.5 stars, Meh, it passed the time" role="radio" tabindex="0"></span>
+    <span class="icon-star icon-star--full js-star-rating-draggable" data-rating="3" data-message="Meh, it passed the time." aria-label="3 stars, Meh, it passed the time" role="radio" tabindex="0"></span>
+    <span class="icon-star icon-star--half js-star-rating-draggable" data-rating="3.5" data-message="It’s good – I’d recommend it." aria-label="3.5 stars, It’s good – I’d recommend it." role="radio" tabindex="0"></span>
+    <span class="icon-star icon-star--full js-star-rating-draggable" data-rating="4" data-message="Awesome!" aria-label="4 stars, Awesome!" role="radio" tabindex="0"></span>
+    <span class="icon-star icon-star--half js-star-rating-draggable" data-rating="4.5" data-message="Awesome!" aria-label="4.5 stars, Awesome!" role="radio" tabindex="0"></span>
+    <span class="icon-star icon-star--full js-star-rating-draggable" data-rating="5" data-message="So Fresh: Absolute Must See!" aria-label="5 stars, So Fresh: Absolute Must See!" role="radio" tabindex="0"></span>
+  </div>
+</div>
+          <h3 class="js-rate-and-review-textarea-header edit-review__textarea-header">What did you think of the movie? <span>(optional)</span></h3>
+          <div class="js-rate-and-review-textarea-group edit-review__textarea-group">
+              <div class="edit-review__textarea textarea-with-counter">
+                  <textarea class="js-textarea-with-counter-text textarea-with-counter__text" placeholder="Your review helps others find great movies and shows to watch. Please share your honest experience on what you liked or disliked."></textarea>
+              </div>
+          </div>
+          
+      </div>
+      
+  </div>
+  <div class="edit-review__submit-btn-container js-verify-btn-group">
+      <button id="edit-review-submit" class="edit-review__submit-btn">Submit</button>
+  </div>
+</li>
+
+    <li id="edit-vas-submission">
+  <header class="multi-page-modal__header js-rate-and-review-modal-header">
+      <button class="js-back-multi-page-modal multi-page-modal__back"></button>
+      <button class="js-close-multi-page-modal multi-page-modal__close" data-step="verify"></button>
+  </header>
+  <div class="edit-verify-ticket__body verify-ticket__body multi-page-modal__body">
+      <div class="js-verify-ticket-content verify-ticket__content">
+          <h3 class="js-verify-ticket-header verify-ticket__header">How did you buy your ticket?</h3>
+          <ul class="verify-ticket__theaters">
+          
+              
+                  <li class="js-verified-ticket-vendor verify-ticket__theater rt-dropdown__providers--fandango" data-vendor="FANDANGO" tabindex="0">
+                      <p class="verify-ticket__theater-name">Fandango
+                          
+                      </p>
+                      
+                  </li>
+              
+          
+              
+                  <li class="js-verified-ticket-vendor verify-ticket__theater rt-dropdown__providers--amc" data-vendor="AMC" tabindex="0">
+                      <p class="verify-ticket__theater-name">AMCTheatres.com or AMC App<span class="js-verified-ticket-new-tag verify-ticket__tag--new">New</span></p>
+                      
+                          <div class="js-verified-ticket-input-message-container verify-ticket__input-message-container">
+                              <label class="js-verified-ticket-disclaimer">Enter your Ticket Confirmation# located in your email.<a class="verified-ticket__help-btn--amc js-amc-help-btn">More Info</a>
+                              </label>
+                              <div class="verify-ticket__numerical-input-container">
+                                  <input type="tel" pattern="[0-9]*" name="amc_confirmation_number" placeholder="1234567890" class="js-verify-ticket-number-input verify-ticket__number-input">
+                                  <button class="js-verify-ticket-cancel-btn verify-ticket__cancel-btn hide"></button>
+                              </div>
+                              <p class="js-verify-ticket-input-error-message verify-ticket__input-error-message hide"></p>
+                          </div>
+                      
+                  </li>
+              
+          
+              
+                  <li class="js-verified-ticket-vendor verify-ticket__theater rt-dropdown__providers--cinemark" data-vendor="" tabindex="0">
+                      <p class="verify-ticket__theater-name">Cinemark
+                          
+                              <span class="verify-ticket__tag">Coming Soon</span>
+                          
+                      </p>
+                      
+                          <p class="js-verified-ticket-disclaimer verify-ticket__disclaimer">We won’t be able to verify your ticket today, but it’s great to know for the future.</p>
+                      
+                  </li>
+              
+          
+              
+                  <li class="js-verified-ticket-vendor verify-ticket__theater rt-dropdown__providers--regal" data-vendor="" tabindex="0">
+                      <p class="verify-ticket__theater-name">Regal
+                          
+                              <span class="verify-ticket__tag">Coming Soon</span>
+                          
+                      </p>
+                      
+                          <p class="js-verified-ticket-disclaimer verify-ticket__disclaimer">We won’t be able to verify your ticket today, but it’s great to know for the future.</p>
+                      
+                  </li>
+              
+          
+              
+                  <li class="js-verified-ticket-vendor verify-ticket__theater " data-vendor="" tabindex="0">
+                      <p class="verify-ticket__theater-name">Theater box office or somewhere else
+                          
+                      </p>
+                      
+                  </li>
+              
+          
+          </ul>
+      </div>
+      <div class="js-verify-btn-group edit-review__vas-btn-disclaimer-container">
+          <button class="js-submit-review verify-ticket__submit-btn">Submit</button>
+          <p class="js-verify-ticket-legal verify-ticket__legal hide">By opting to have your ticket verified for this movie, you are allowing us to check the email address associated with your Rotten Tomatoes account against an email address associated with a Fandango ticket purchase for the same movie.</p>
+      </div>
+  </div>
+</li>
+
+    
+    <li id="submit-review-alert">
+  <aside class="js-multi-page-modal__sub-modal multi-page-modal__sub-modal-overlay submit-review-alert__sub-modal-overlay">
+      <div class="multi-page-modal__sub-modal-content">
+          <div class="multi-page-modal__sub-modal-body">
+              <h3 class="multi-page-modal__sub-modal-title">You haven’t finished your review yet, want to submit as-is?</h3>
+              <p>You can always edit your review after.</p>
+          </div>
+          <div class="multi-page-modal__sub-modal-btn-group">
+              <button class="js-submit-review-without-verification">Submit &amp; exit</button>
+              <button id="remove-review" class="button--outline">Remove review</button>
+          </div>
+      </div>
+  </aside>
+</li>
+    <li id="verify-ticket-alert">
+  <aside class="js-multi-page-modal__sub-modal multi-page-modal__sub-modal-overlay verify-ticket-alert__sub-modal-overlay">
+      <div class="multi-page-modal__sub-modal-content">
+          <div class="multi-page-modal__sub-modal-body">
+              <h3 class="multi-page-modal__sub-modal-title">Are you sure?</h3>
+              <p>Verified reviews are considered more trustworthy by fellow moviegoers.</p>
+          </div>
+          <div class="multi-page-modal__sub-modal-btn-group">
+              <button class="js-submit-review-without-verification">Submit &amp; exit</button>
+              <button id="verify-ticket" class="button--outline">Verify Ticket</button>
+          </div>
+      </div>
+  </aside>
+</li>
+    <li id="discard-review-change-alert">
+  <aside class="js-multi-page-modal__sub-modal multi-page-modal__sub-modal-overlay verify-ticket-alert__sub-modal-overlay">
+      <div class="multi-page-modal__sub-modal-content">
+          <div class="multi-page-modal__sub-modal-body">
+              <h3 class="multi-page-modal__sub-modal-title">Want to submit changes to your review before closing?</h3>
+          </div>
+          <div class="multi-page-modal__sub-modal-btn-group">
+              <button class="js-submit-review">Submit</button>
+              <button id="discard-review" class="button--outline">Discard changes</button>
+          </div>
+      </div>
+  </aside>
+</li>
+</ul>
+
+            <aside class="js-rating-submit-drawer-initial-review rating-submit-drawer mobile-drawer">
+    <div class="js-mobile-drawer-backdrop-close-btn mobile-drawer__backdrop"></div>
+    <div class="mobile-drawer__content">
+        <div class="mobile-drawer__header">
+            <div class="rating-submit-drawer__icon"></div>
+        </div>
+        <div class="mobile-drawer__body-content-group">
+          <div class="mobile-drawer__body">
+              <h2 class=" rating-submit-drawer__title" tabindex="0">Done Already? A few more words can help others decide if it's worth watching</h2>
+              <p class="rating-submit-drawer__copy" tabindex="0">They won't be able to see your review if you only submit your rating.</p>
+          </div>
+          <div class="mobile-drawer__btn-group">
+              <button class="js-submit-only-rating-btn rating-submit-drawer__footer--submit-only-rating-btn">Submit only my rating</button>
+              <button class="js-keep-writing-btn button--outline rating-submit-drawer__button--keep-writing">Keep writing</button>
+          </div>
+        </div>
+    </div>
+</aside>
+
+            <aside class="js-rating-submit-drawer-edit-review rating-submit-drawer mobile-drawer">
+    <div class="js-mobile-drawer-backdrop-close-btn mobile-drawer__backdrop"></div>
+    <div class="mobile-drawer__content">
+        <div class="mobile-drawer__header">
+            <div class="rating-submit-drawer__icon"></div>
+        </div>
+        <div class="mobile-drawer__body-content-group">
+          <div class="mobile-drawer__body">
+              <h2 class=" rating-submit-drawer__title" tabindex="0">Done Already? A few more words can help others decide if it's worth watching</h2>
+              <p class="rating-submit-drawer__copy" tabindex="0">They won't be able to see your review if you only submit your rating.</p>
+          </div>
+          <div class="mobile-drawer__btn-group">
+              <button class="js-discard-changes-btn button rating-submit-drawer__footer--discard-changes-btn">Discard changes &amp; exit</button>
+              <button class="js-submit-only-rating-btn rating-submit-drawer__footer--submit-only-rating-btn">Submit only my rating</button>
+              <button class="js-keep-writing-btn button--outline rating-submit-drawer__button--keep-writing">Keep writing</button>
+          </div>
+        </div>
+    </div>
+</aside>
+
+            <aside class="js-rating-submission-message-drawer mobile-drawer mobile-drawer--responsive">
+    <div class="js-mobile-drawer-backdrop-close-btn mobile-drawer__backdrop"></div>
+    <div class="mobile-drawer__content">
+        <button class="js-mobile-drawer-backdrop-close-btn mobile-drawer__close-btn button--link"></button>
+        <div class="mobile-drawer__body-content-group">
+            <div class="mobile-drawer__body">
+                <div class="submission-drawer__icon"></div>
+                <h3 class="submission-drawer__title js-rating-submission-header"></h3>
+                <p class="submission-drawer__copy js-rating-submission-body"></p>
+                <a class="submission-drawer__social-share submission-drawer__facebook-share js-submission-drawer-facebook-link hide" target="_blank">
+                    <span class="submission-drawer__facebook-icon"></span>
+                    <span>Share with Facebook</span>
+                </a>
+                <a class="submission-drawer__social-share submission-drawer__twitter-share js-submission-drawer-twitter-link hide" target="_blank">
+                    <span class="submission-drawer__twitter-icon"></span>
+                    <span>Share with Twitter</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</aside>
+
+            <aside class="js-amc-help-drawer mobile-drawer mobile-drawer--responsive">
+    <div class="js-mobile-drawer-backdrop-close-btn mobile-drawer__backdrop"></div>
+    <div class="mobile-drawer__content amc-help-drawer__content">
+        <button class="js-mobile-drawer-backdrop-close-btn mobile-drawer__close-btn button--link"></button>
+        <div class="mobile-drawer__body-content-group">
+            <p class="sr-only">
+                The image is an example of a ticket confirmation email that AMC sent you when you purchased your ticket. Your Ticket Confirmation # is located under the header in your email that reads "Your Ticket Reservation Details". Just below that it reads "Ticket Confirmation#:" followed by a 10-digit number. This 10-digit number is your confirmation number.
+            </p>
+            <p class="amc-help-drawer__copy">
+                Your AMC Ticket Confirmation# can be found in your order confirmation email.
+            </p>
+            <img class="amc-help-drawer__icon" src="/assets/pizza-pie/images/amc_help_icon.986b4076eb0.png" alt="Picture of a phone screen with the AMC ticket confirmation email.
+                The header reads: 'Your Ticket Reservation Details'. The line below
+                it reads: 'Ticket Confirmation#' followed by a ten-digit number. The
+                ten-digit number is your ticket confirmation number.  ">
+        </div>
+    </div>
+</aside>
+
+        </div>
+    </div>
+
+</div>
+
+
+                
+
+                <section class="user-rating-error js-user-rating-error hide">
+                    <button href="#" class="user-rating-error__close-button js-user-rating-error-close-button"></button>
+                    <h3 class="user-rating-error__header js-user-rating-error-header"></h3>
+                    <div class="user-rating-error__body js-user-rating-error-text"></div>
+                </section>
+            </div>
+
+            
+            
+    
+    
+    
+        
+    
+    <aside id="interscroller_ad" class="interscroller_ad visible-xs center mobile-interscroller " style="width:300px"></aside>
+    <script>
+        var mps = mps || {};
+        mps._queue = mps._queue || {};
+        mps._queue.gptloaded = mps._queue.gptloaded || [];
+        mps._queue.adload = mps._queue.adload || [];
+
+        mps._queue.gptloaded.push(function() {
+            if (mps.getResponsiveSet() =='0') { //MOBILE
+                mps.insertAd('#interscroller_ad','interscroller');
+            }
+        });
+        mps._queue.adload.push(function(eo) {
+            if (eo._mps._slot === 'interscroller' && eo.isEmpty) {
+                document.querySelector('.mobile-interscroller').classList.add('isEmpty');
+            }
+        });
+    </script>
+
+
+
+            
+
+            
+                
+<section id="movie-videos-panel" class="panel panel-rt panel-box" data-qa="videos-section">
+    <h2 class="panel-heading" data-qa="videos-section-title">
+        
+            <em>The Truman Show</em>
+        
+
+        
+        Videos
+    </h2>
+    <div class="panel-body content_body allow-overflow">
+        <div id="videos-carousel-root" data-qa="videos-carousel">
+            <div class="Carousel VideosCarousel slick-initialized slick-slider">
+                
+                    <div aria-live="polite" class="slick-list draggable"><div class="slick-track" role="listbox" style="opacity: 1; width: 182px; transform: translate3d(0px, 0px, 0px);"><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide10" style="width: 182px;">
+                        <div class="VideosCarousel__item">
+                            <a class="VideosCarousel__item-link trailer_play_action_button" data-no-ads="false" data-video-id="08F491C2-DC74-467E-8DB2-41CC3FE73F82" data-title="The Truman Show: Trailer 1" data-mpx-fwsite="rotten_tomatoes_video_vod&amp;adobe_mc=MCMID%3D82983364360744716282118535792267812764%7CMCORGID%3D8CF467C25245AE3F0A490D4C%2540AdobeOrg%7CTS%3D1606523703" data-qa="video-trailer-play-btn" tabindex="0">
+                                <div class="VideosCarousel__image-container">
+                                    
+                                        <img src="/assets/pizza-pie/images/video.default.cf010a946e9.jpg" role="presentation" class="VideosCarousel__image js-lazyLoad" data-src="https://resizing.flixster.com/axQZaLdorwfPLLgMyQkw2lNS-Vo=/171x128/v1.bjsxODcxNjgyO2o7MTg2NTE7MjA0ODsxMDgwOzE5MjA">
+                                    
+                                    <div class="playButton playButton--small">
+                                        <div class="playButton__img" data-qa="videos-carousel-btn"></div>
+                                    </div>
+                                    
+                                        <div class="VideoCarousel__duration">
+                                            2:32
+                                        </div>
+                                    
+                                </div>
+                                
+                                    <div class="VideosCarousel__video-title">The Truman Show: Trailer 1</div>
+                                
+                            </a>
+                        </div>
+                    </div></div></div>
+                
+            </div>
+        </div>
+        <div class="clickForMore viewMoreVideos">
+            <a class="unstyled articleLink pull-right" href="/m/truman_show/trailers/" data-qa="videos-view-all-link">
+                <div>
+                    View All Videos (1)
+                </div>
+            </a>
+        </div>
+    </div>
+</section>
+
+
+            
+
+            
+    <section class="panel panel-rt panel-box" data-qa="photos-section">
+        <h2 class="panel-heading" data-qa="photos-section-title">
+            
+                <em>The Truman Show</em>
+            
+
+            
+            Photos
+        </h2>
+        <div class="panel-body content_body allow-overflow">
+            <div id="photos-carousel-root" data-qa="photos-carousel">
+                <div class="Carousel PhotosCarousel slick-initialized slick-slider slick-dotted" role="toolbar"><button class="CarouselButton CarouselButton__left slick-arrow" data-qa="carousel-left-btn" style=""><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" style="fill: currentcolor; vertical-align: middle; width: 24px; height: 24px;"><g><path d="M15.41 7.41l-1.41-1.41-6 6 6 6 1.41-1.41-4.58-4.59z"></path></g></svg></button>
+                    
+                        <div aria-live="polite" class="slick-list draggable"><div class="slick-track" role="listbox" style="opacity: 1; width: 4186px; transform: translate3d(-728px, 0px, 0px);"><div class="preload slick-slide slick-cloned" data-slick-index="-4" aria-hidden="true" tabindex="-1" style="width: 182px;">
+                            <div class="PhotosCarousel__item">
+                                <a class="PhotosCarousel__item-link" data-qa="photo-link" tabindex="-1">
+                                    <img src="/assets/pizza-pie/images/placeholder_photo_carousel.eed1c108233.gif" class="PhotosCarousel__image js-lazyLoad" data-src="https://resizing.flixster.com/NydVljLi36rDAZfuuCM4gGaoKfM=/300x300/v2/https://flxt.tmsimg.com/assets/p20974_v_h8_ah.jpg" alt="" data-qa="photos-carousel-img">
+                                </a>
+                            </div>
+                        </div><div class="preload slick-slide slick-cloned" data-slick-index="-3" aria-hidden="true" tabindex="-1" style="width: 182px;">
+                            <div class="PhotosCarousel__item">
+                                <a class="PhotosCarousel__item-link" data-qa="photo-link" tabindex="-1">
+                                    <img src="/assets/pizza-pie/images/placeholder_photo_carousel.eed1c108233.gif" class="PhotosCarousel__image js-lazyLoad" data-src="https://resizing.flixster.com/IZdWUzNba_99BJ0OLIXLz8nfhSs=/300x300/v2/https://flxt.tmsimg.com/assets/p20974_p_v10_aq.jpg" alt="The Truman Show (1998)" data-qa="photos-carousel-img">
+                                </a>
+                            </div>
+                        </div><div class="preload slick-slide slick-cloned" data-slick-index="-2" aria-hidden="true" tabindex="-1" style="width: 182px;">
+                            <div class="PhotosCarousel__item">
+                                <a class="PhotosCarousel__item-link" data-qa="photo-link" tabindex="-1">
+                                    <img src="/assets/pizza-pie/images/placeholder_photo_carousel.eed1c108233.gif" class="PhotosCarousel__image js-lazyLoad" data-src="https://resizing.flixster.com/ZEWFLLjn0t2QJATTJHFvhA9ANI4=/300x300/v2/https://flxt.tmsimg.com/assets/p20974_p_v8_aa.jpg" alt="The Truman Show (1998)" data-qa="photos-carousel-img">
+                                </a>
+                            </div>
+                        </div><div class="preload slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" tabindex="-1" style="width: 182px;">
+                            <div class="PhotosCarousel__item">
+                                <a class="PhotosCarousel__item-link" data-qa="photo-link" tabindex="-1">
+                                    <img src="/assets/pizza-pie/images/placeholder_photo_carousel.eed1c108233.gif" class="PhotosCarousel__image js-lazyLoad" data-src="https://resizing.flixster.com/piDR6p-nt4gGeswA53n0u-gcJEw=/300x300/v2/https://flxt.tmsimg.com/assets/p20974_d_v8_aa.jpg" alt="The Truman Show (1998)" data-qa="photos-carousel-img">
+                                </a>
+                            </div>
+                        </div><div class="preload slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide00" style="width: 182px;">
+                            <div class="PhotosCarousel__item">
+                                <a class="PhotosCarousel__item-link" data-qa="photo-link" tabindex="0">
+                                    <img src="/assets/pizza-pie/images/placeholder_photo_carousel.eed1c108233.gif" class="PhotosCarousel__image js-lazyLoad" data-src="https://resizing.flixster.com/HLIqEH4r84pJQLiC1dLcpNF2Rls=/300x300/v2/https://flxt.tmsimg.com/assets/p20974_i_h9_aa.jpg" alt="The Truman Show (1998)" data-qa="photos-carousel-img">
+                                </a>
+                            </div>
+                        </div><div class="preload slick-slide slick-active" data-slick-index="1" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide01" style="width: 182px;">
+                            <div class="PhotosCarousel__item">
+                                <a class="PhotosCarousel__item-link" data-qa="photo-link" tabindex="0">
+                                    <img src="/assets/pizza-pie/images/placeholder_photo_carousel.eed1c108233.gif" class="PhotosCarousel__image js-lazyLoad" data-src="https://resizing.flixster.com/SL2Kk_MrFomqWfIiU3JXUYMOLFg=/300x300/v2/https://flxt.tmsimg.com/assets/p20974_i_v9_aa.jpg" alt="The Truman Show (1998)" data-qa="photos-carousel-img">
+                                </a>
+                            </div>
+                        </div><div class="preload slick-slide slick-active" data-slick-index="2" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide02" style="width: 182px;">
+                            <div class="PhotosCarousel__item">
+                                <a class="PhotosCarousel__item-link" data-qa="photo-link" tabindex="0">
+                                    <img src="/assets/pizza-pie/images/placeholder_photo_carousel.eed1c108233.gif" class="PhotosCarousel__image js-lazyLoad" data-src="https://resizing.flixster.com/NNbTQAgiEyXnBrj5B8i3F4PEBwo=/300x300/v2/https://flxt.tmsimg.com/assets/p20974_i_v8_aa.jpg" alt="The Truman Show (1998)" data-qa="photos-carousel-img">
+                                </a>
+                            </div>
+                        </div><div class="preload slick-slide slick-active" data-slick-index="3" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide03" style="width: 182px;">
+                            <div class="PhotosCarousel__item">
+                                <a class="PhotosCarousel__item-link" data-qa="photo-link" tabindex="0">
+                                    <img src="/assets/pizza-pie/images/placeholder_photo_carousel.eed1c108233.gif" class="PhotosCarousel__image js-lazyLoad" data-src="https://resizing.flixster.com/ov-dpunBT72jUoNcazB57cguRxQ=/300x300/v2/https://flxt.tmsimg.com/assets/p20974_i_h11_ab.jpg" alt="The Truman Show (1998)" data-qa="photos-carousel-img">
+                                </a>
+                            </div>
+                        </div><div class="preload slick-slide" data-slick-index="4" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide04" style="width: 182px;">
+                            <div class="PhotosCarousel__item">
+                                <a class="PhotosCarousel__item-link" data-qa="photo-link" tabindex="-1">
+                                    <img src="/assets/pizza-pie/images/placeholder_photo_carousel.eed1c108233.gif" class="PhotosCarousel__image js-lazyLoad" data-src="https://resizing.flixster.com/oc-7L9f07hg3GddFsE1K0CpRiSQ=/300x300/v2/https://flxt.tmsimg.com/assets/p20974_k_h9_aa.jpg" alt="" data-qa="photos-carousel-img">
+                                </a>
+                            </div>
+                        </div><div class="preload slick-slide" data-slick-index="5" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide05" style="width: 182px;">
+                            <div class="PhotosCarousel__item">
+                                <a class="PhotosCarousel__item-link" data-qa="photo-link" tabindex="-1">
+                                    <img src="/assets/pizza-pie/images/placeholder_photo_carousel.eed1c108233.gif" class="PhotosCarousel__image js-lazyLoad" data-src="https://resizing.flixster.com/BlZD2CVIycH0DqxTpyG6gYYosEw=/300x300/v2/https://flxt.tmsimg.com/assets/p20974_k_v9_aa.jpg" alt="" data-qa="photos-carousel-img">
+                                </a>
+                            </div>
+                        </div><div class="preload slick-slide" data-slick-index="6" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide06" style="width: 182px;">
+                            <div class="PhotosCarousel__item">
+                                <a class="PhotosCarousel__item-link" data-qa="photo-link" tabindex="-1">
+                                    <img src="/assets/pizza-pie/images/placeholder_photo_carousel.eed1c108233.gif" class="PhotosCarousel__image js-lazyLoad" data-src="https://resizing.flixster.com/7sqYmdlylZ2e7esJ20Wg8dM1SQU=/300x300/v2/https://flxt.tmsimg.com/assets/p20974_k_v8_aa.jpg" alt="" data-qa="photos-carousel-img">
+                                </a>
+                            </div>
+                        </div><div class="preload slick-slide" data-slick-index="7" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide07" style="width: 182px;">
+                            <div class="PhotosCarousel__item">
+                                <a class="PhotosCarousel__item-link" data-qa="photo-link" tabindex="-1">
+                                    <img src="/assets/pizza-pie/images/placeholder_photo_carousel.eed1c108233.gif" class="PhotosCarousel__image js-lazyLoad" data-src="https://resizing.flixster.com/1PwFFar6h6ZV9KaCK1k_Lb976aU=/300x300/v2/https://flxt.tmsimg.com/assets/p20974_k_h10_aa.jpg" alt="" data-qa="photos-carousel-img">
+                                </a>
+                            </div>
+                        </div><div class="preload slick-slide" data-slick-index="8" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide08" style="width: 182px;">
+                            <div class="PhotosCarousel__item">
+                                <a class="PhotosCarousel__item-link" data-qa="photo-link" tabindex="-1">
+                                    <img src="/assets/pizza-pie/images/placeholder_photo_carousel.eed1c108233.gif" class="PhotosCarousel__image js-lazyLoad" data-src="https://resizing.flixster.com/fZWzxBikEvUPZN_9gNcqGUvLTpo=/300x300/v2/https://flxt.tmsimg.com/assets/p20974_v_h9_ax.jpg" alt="" data-qa="photos-carousel-img">
+                                </a>
+                            </div>
+                        </div><div class="preload slick-slide" data-slick-index="9" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide09" style="width: 182px;">
+                            <div class="PhotosCarousel__item">
+                                <a class="PhotosCarousel__item-link" data-qa="photo-link" tabindex="-1">
+                                    <img src="/assets/pizza-pie/images/placeholder_photo_carousel.eed1c108233.gif" class="PhotosCarousel__image js-lazyLoad" data-src="https://resizing.flixster.com/npMREYdUR-UqjPcxIkRpKrWjsl8=/300x300/v2/https://flxt.tmsimg.com/assets/p20974_v_v13_ax.jpg" alt="" data-qa="photos-carousel-img">
+                                </a>
+                            </div>
+                        </div><div class="preload slick-slide" data-slick-index="10" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide010" style="width: 182px;">
+                            <div class="PhotosCarousel__item">
+                                <a class="PhotosCarousel__item-link" data-qa="photo-link" tabindex="-1">
+                                    <img src="/assets/pizza-pie/images/placeholder_photo_carousel.eed1c108233.gif" class="PhotosCarousel__image js-lazyLoad" data-src="https://resizing.flixster.com/hVo4mXb_Eqcqfb7jbT91yjDbU20=/300x300/v2/https://flxt.tmsimg.com/assets/p20974_v_v8_ax.jpg" alt="" data-qa="photos-carousel-img">
+                                </a>
+                            </div>
+                        </div><div class="preload slick-slide" data-slick-index="11" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide011" style="width: 182px;">
+                            <div class="PhotosCarousel__item">
+                                <a class="PhotosCarousel__item-link" data-qa="photo-link" tabindex="-1">
+                                    <img src="/assets/pizza-pie/images/placeholder_photo_carousel.eed1c108233.gif" class="PhotosCarousel__image js-lazyLoad" data-src="https://resizing.flixster.com/NydVljLi36rDAZfuuCM4gGaoKfM=/300x300/v2/https://flxt.tmsimg.com/assets/p20974_v_h8_ah.jpg" alt="" data-qa="photos-carousel-img">
+                                </a>
+                            </div>
+                        </div><div class="preload slick-slide" data-slick-index="12" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide012" style="width: 182px;">
+                            <div class="PhotosCarousel__item">
+                                <a class="PhotosCarousel__item-link" data-qa="photo-link" tabindex="-1">
+                                    <img src="/assets/pizza-pie/images/placeholder_photo_carousel.eed1c108233.gif" class="PhotosCarousel__image js-lazyLoad" data-src="https://resizing.flixster.com/IZdWUzNba_99BJ0OLIXLz8nfhSs=/300x300/v2/https://flxt.tmsimg.com/assets/p20974_p_v10_aq.jpg" alt="The Truman Show (1998)" data-qa="photos-carousel-img">
+                                </a>
+                            </div>
+                        </div><div class="preload slick-slide" data-slick-index="13" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide013" style="width: 182px;">
+                            <div class="PhotosCarousel__item">
+                                <a class="PhotosCarousel__item-link" data-qa="photo-link" tabindex="-1">
+                                    <img src="/assets/pizza-pie/images/placeholder_photo_carousel.eed1c108233.gif" class="PhotosCarousel__image js-lazyLoad" data-src="https://resizing.flixster.com/ZEWFLLjn0t2QJATTJHFvhA9ANI4=/300x300/v2/https://flxt.tmsimg.com/assets/p20974_p_v8_aa.jpg" alt="The Truman Show (1998)" data-qa="photos-carousel-img">
+                                </a>
+                            </div>
+                        </div><div class="preload slick-slide" data-slick-index="14" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide014" style="width: 182px;">
+                            <div class="PhotosCarousel__item">
+                                <a class="PhotosCarousel__item-link" data-qa="photo-link" tabindex="-1">
+                                    <img src="/assets/pizza-pie/images/placeholder_photo_carousel.eed1c108233.gif" class="PhotosCarousel__image js-lazyLoad" data-src="https://resizing.flixster.com/piDR6p-nt4gGeswA53n0u-gcJEw=/300x300/v2/https://flxt.tmsimg.com/assets/p20974_d_v8_aa.jpg" alt="The Truman Show (1998)" data-qa="photos-carousel-img">
+                                </a>
+                            </div>
+                        </div><div class="preload slick-slide slick-cloned" data-slick-index="15" aria-hidden="true" tabindex="-1" style="width: 182px;">
+                            <div class="PhotosCarousel__item">
+                                <a class="PhotosCarousel__item-link" data-qa="photo-link" tabindex="-1">
+                                    <img src="/assets/pizza-pie/images/placeholder_photo_carousel.eed1c108233.gif" class="PhotosCarousel__image js-lazyLoad" data-src="https://resizing.flixster.com/HLIqEH4r84pJQLiC1dLcpNF2Rls=/300x300/v2/https://flxt.tmsimg.com/assets/p20974_i_h9_aa.jpg" alt="The Truman Show (1998)" data-qa="photos-carousel-img">
+                                </a>
+                            </div>
+                        </div><div class="preload slick-slide slick-cloned" data-slick-index="16" aria-hidden="true" tabindex="-1" style="width: 182px;">
+                            <div class="PhotosCarousel__item">
+                                <a class="PhotosCarousel__item-link" data-qa="photo-link" tabindex="-1">
+                                    <img src="/assets/pizza-pie/images/placeholder_photo_carousel.eed1c108233.gif" class="PhotosCarousel__image js-lazyLoad" data-src="https://resizing.flixster.com/SL2Kk_MrFomqWfIiU3JXUYMOLFg=/300x300/v2/https://flxt.tmsimg.com/assets/p20974_i_v9_aa.jpg" alt="The Truman Show (1998)" data-qa="photos-carousel-img">
+                                </a>
+                            </div>
+                        </div><div class="preload slick-slide slick-cloned" data-slick-index="17" aria-hidden="true" tabindex="-1" style="width: 182px;">
+                            <div class="PhotosCarousel__item">
+                                <a class="PhotosCarousel__item-link" data-qa="photo-link" tabindex="-1">
+                                    <img src="/assets/pizza-pie/images/placeholder_photo_carousel.eed1c108233.gif" class="PhotosCarousel__image js-lazyLoad" data-src="https://resizing.flixster.com/NNbTQAgiEyXnBrj5B8i3F4PEBwo=/300x300/v2/https://flxt.tmsimg.com/assets/p20974_i_v8_aa.jpg" alt="The Truman Show (1998)" data-qa="photos-carousel-img">
+                                </a>
+                            </div>
+                        </div><div class="preload slick-slide slick-cloned" data-slick-index="18" aria-hidden="true" tabindex="-1" style="width: 182px;">
+                            <div class="PhotosCarousel__item">
+                                <a class="PhotosCarousel__item-link" data-qa="photo-link" tabindex="-1">
+                                    <img src="/assets/pizza-pie/images/placeholder_photo_carousel.eed1c108233.gif" class="PhotosCarousel__image js-lazyLoad" data-src="https://resizing.flixster.com/ov-dpunBT72jUoNcazB57cguRxQ=/300x300/v2/https://flxt.tmsimg.com/assets/p20974_i_h11_ab.jpg" alt="The Truman Show (1998)" data-qa="photos-carousel-img">
+                                </a>
+                            </div>
+                        </div></div></div>
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                <button class="CarouselButton CarouselButton__right slick-arrow" data-qa="carousel-right-btn" style=""><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" style="fill: currentcolor; vertical-align: middle; width: 24px; height: 24px;"><g><path d="M10 6l-1.41 1.41 4.58 4.59-4.58 4.59 1.41 1.41 6-6z"></path></g></svg></button><ul class="slick-dots" style="" role="tablist"><li class="slick-active" aria-hidden="false" role="presentation" aria-selected="true" aria-controls="navigation00" id="slick-slide00"><button type="button" data-role="none" role="button" tabindex="0">1</button></li><li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation01" id="slick-slide01"><button type="button" data-role="none" role="button" tabindex="0">2</button></li><li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation02" id="slick-slide02"><button type="button" data-role="none" role="button" tabindex="0">3</button></li><li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation03" id="slick-slide03"><button type="button" data-role="none" role="button" tabindex="0">4</button></li></ul></div>
+                <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true" style="" data-qa="photos-modal">
+    <div class="pswp__bg"></div>
+    <div class="pswp__scroll-wrap">
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+        <div class="pswp__ui pswp__ui--hidden"><!-- pswp__ui--fit  -->
+            <div class="pswp__top-bar">
+                <div class="pswp__counter"></div>
+                <button class="pswp__button pswp__button--close" title="Close (Esc)" data-qa="photos-modal-close-btn"></button>
+                <button class="pswp__button pswp__button--share pswp__element--disabled" title="Share"></button>
+                <button class="pswp__button pswp__button--fs pswp__element--disabled" title="Toggle fullscreen"></button>
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+            </div>
+            <div class="clickForMore viewMorePhotos">
+                <a class="unstyled articleLink pull-right" href="/m/truman_show/pictures" data-qa="photos-view-all-link">
+                    <div>
+                        View All Photos (15)
+                    </div>
+                </a>
+            </div>
+        </div>
+    </section>
+
+
+
+            <aside class="str-ad">
+                <div class="visible-xs">
+                    
+                    
+    
+        
+    
+    
+        
+    
+    
+    <div id="sharethrough_top_ad"></div>
+    <script>
+        var mps = mps||{}; mps._queue = mps._queue||{}; mps._queue.gptloaded = mps._queue.gptloaded||[];
+        mps._queue.gptloaded.push(function () {
+            if (mps.getResponsiveSet() == '0') { //MOBILE
+                mps.insertAd('#sharethrough_top_ad','sharethrough','strnativekey=b9QEvHRnA3pDEDZ6CpgtS2vx;pos=top;');
+            }
+        });
+    </script>
+
+
+                </div>
+            </aside>
+
+            <section class="panel panel-rt panel-box movie_info media" data-qa="movie-info-section">
+    <aside class="pull-right">
+        
+        <div id="outbrainTopMobAd" class="hidden-xs"></div>
+    </aside>
+    <div class="media-body">
+        <h2 class="panel-heading" data-qa="movie-info-section-title">Movie Info</h2>
+        <div class="panel-body content_body">
+            <div class="sr-only js-clamp-live-region" aria-live="polite"></div>
+            <div id="movieSynopsis" class="movie_synopsis clamp clamp-6 js-clamp" style="clear:both" data-qa="movie-info-synopsis">
+                He doesn't know it, but everything in Truman Burbank's (Jim Carrey) life is part of a massive TV set. Executive producer Christof (Ed Harris) orchestrates "The Truman Show," a live broadcast of Truman's every move captured by hidden cameras. Cristof tries to control Truman's mind, even removing his true love, Sylvia (Natascha McElhone), from the show and replacing her with Meryl (Laura Linney). As Truman gradually discovers the truth, however, he must decide whether to act on it.
+            </div>
+            <ul class="content-meta info">
+                
+                <li class="meta-row clearfix" data-qa="movie-info-item">
+                    <div class="meta-label subtle" data-qa="movie-info-item-label">Rating:</div>
+                    <div class="meta-value" data-qa="movie-info-item-value">PG
+                    </div>
+                </li>
+                
+                
+                <li class="meta-row clearfix" data-qa="movie-info-item">
+                    <div class="meta-label subtle" data-qa="movie-info-item-label">Genre:</div>
+                    <div class="meta-value genre" data-qa="movie-info-item-value">
+                        
+                        drama, 
+                        
+                        comedy
+                        
+                    </div>
+                </li>
+                
+                
+                <li class="meta-row clearfix" data-qa="movie-info-item">
+                    <div class="meta-label subtle" data-qa="movie-info-item-label">Original Language:</div>
+                    <div class="meta-value" data-qa="movie-info-item-value">English
+                    </div>
+                </li>
+                
+                
+                <li class="meta-row clearfix" data-qa="movie-info-item">
+                    <div class="meta-label subtle" data-qa="movie-info-item-label">Director:</div>
+                    <div class="meta-value" data-qa="movie-info-item-value">
+                        
+                            <a href="/celebrity/peter_weir" data-qa="movie-info-director">Peter Weir</a>
+                        
+                    </div>
+                </li>
+                
+                
+                <li class="meta-row clearfix" data-qa="movie-info-item">
+                    <div class="meta-label subtle" data-qa="movie-info-item-label">Producer:</div>
+                    <div class="meta-value" data-qa="movie-info-item-value">
+                        
+                            <a href="/celebrity/scott_rudin">Scott Rudin</a>, 
+                        
+                            <a href="/celebrity/andrew_niccol">Andrew Niccol</a>, 
+                        
+                            <a href="/celebrity/edward_s_feldman">Edward S. Feldman</a>, 
+                        
+                            <a href="/celebrity/adam_schroeder">Adam Schroeder</a>
+                        
+                    </div>
+                </li>
+                
+                
+                <li class="meta-row clearfix" data-qa="movie-info-item">
+                    <div class="meta-label subtle" data-qa="movie-info-item-label">Writer:</div>
+                    <div class="meta-value" data-qa="movie-info-item-value">
+                        
+                            <a href="/celebrity/andrew_niccol">Andrew Niccol</a>
+                        
+                    </div>
+                </li>
+                
+                
+                
+                <li class="meta-row clearfix" data-qa="movie-info-item">
+                    <div class="meta-label subtle" data-qa="movie-info-item-label">Release Date (Streaming):</div>
+                    <div class="meta-value" data-qa="movie-info-item-value">
+                        <time datetime="Aug 23, 2005">
+                            Aug 1, 2013
+                        </time>
+                    </div>
+                </li>
+                
+                
+                <li class="meta-row clearfix" data-qa="movie-info-item">
+                    <div class="meta-label subtle" data-qa="movie-info-item-label">Box Office (Gross USA):</div>
+                    <div class="meta-value" data-qa="movie-info-item-value">$125.6M</div>
+                </li>
+                
+                
+                <li class="meta-row clearfix" data-qa="movie-info-item">
+                    <div class="meta-label subtle" data-qa="movie-info-item-label">Runtime:</div>
+                    <div class="meta-value" data-qa="movie-info-item-value">
+                        <time datetime="P1h 42mM">
+                            1h 42m
+                        </time>
+                    </div>
+                </li>
+                
+                
+                
+                <li class="meta-row clearfix" data-qa="movie-info-item">
+                    <div class="meta-label subtle" data-qa="movie-info-item-label">Production Co:</div>
+                    <div class="meta-value" data-qa="movie-info-item-value">
+                        
+                        Paramount Pictures, 
+                        
+                        Scott Rudin Productions
+                        
+                    </div>
+                </li>
+                
+                
+                <li class="meta-row clearfix" data-qa="movie-info-item">
+                    <div class="meta-label subtle" data-qa="movie-info-item-label">Sound Mix:</div>
+                    <div class="meta-value" data-qa="movie-info-item-value">
+                        Surround
+                    </div>
+                </li>
+                
+                
+                
+            </ul>
+            
+        </div>
+    </div>
+</section>
+
+
+            <div class="centered">
+                
+                
+    
+    
+    
+        
+    
+    <aside id="medrec_mobile_mob_top_ad" class="medrec_ad visible-xs center mobile-medrec" style="width:300px"></aside>
+        
+        
+        
+            <script>
+                var mps = mps||{}; mps._queue = mps._queue||{}; mps._queue.gptloaded = mps._queue.gptloaded||[];
+                mps._queue.gptloaded.push(function () {
+                    if (mps.getResponsiveSet() == '0') { //MOBILE
+                        mps.insertAd('#medrec_mobile_mob_top_ad','mboxadone');
+                    }
+                });
+            </script>
+        
+        
+
+
+            </div>
+
+            <section id="movie-cast" class="panel panel-rt panel-box" data-qa="cast-crew-section">
+                
+                    
+                
+                <h2 class="panel-heading" data-qa="cast-crew-section-title">Cast &amp; Crew</h2>
+                <div class="panel-body content_body">
+                    
+                    
+    
+    <div class="castSection " data-qa="cast-section">
+        
+            
+            
+            <div class="cast-item media inlineBlock  " data-qa="cast-crew-item">
+    <div class="pull-left">
+    
+        <a href="/celebrity/jim_carey" data-qa="cast-crew-item-img-link">
+    
+        
+            <img data-src="https://resizing.flixster.com/qYcXMJ7MCfzk2nJ-cdIMY6WBgm4=/100x120/v2/https://flxt.tmsimg.com/v9/AllPhotos/128650/128650_v9_bc.jpg" class="js-lazyLoad actorThumb medium media-object">
+        
+    
+        </a>
+    
+    </div>
+    <div class="media-body">
+        
+            <a href=" /celebrity/jim_carey " class="unstyled articleLink" data-qa="cast-crew-item-link">
+        
+                <span title="Jim Carrey">
+                    Jim Carrey
+                </span>
+        
+            </a>
+        
+        <span class="characters subtle smaller" title="Jim Carrey">
+            
+            <br>
+                
+                    Truman Burbank
+                
+            
+            
+            <br>
+                
+                    
+                
+            
+        </span>
+    </div>
+</div>
+
+        
+            
+            
+            <div class="cast-item media inlineBlock  " data-qa="cast-crew-item">
+    <div class="pull-left">
+    
+        <a href="/celebrity/laura_linney" data-qa="cast-crew-item-img-link">
+    
+        
+            <img data-src="https://resizing.flixster.com/bpbagK6eGuZm_7iZ0JKF5qTSloE=/100x120/v2/https://flxt.tmsimg.com/v9/AllPhotos/71283/71283_v9_bb.jpg" class="js-lazyLoad actorThumb medium media-object">
+        
+    
+        </a>
+    
+    </div>
+    <div class="media-body">
+        
+            <a href=" /celebrity/laura_linney " class="unstyled articleLink" data-qa="cast-crew-item-link">
+        
+                <span title="Laura Linney">
+                    Laura Linney
+                </span>
+        
+            </a>
+        
+        <span class="characters subtle smaller" title="Laura Linney">
+            
+            <br>
+                
+                    Meryl Burbank, 
+                
+                    Hannah Gill
+                
+            
+            
+            <br>
+                
+                    
+                
+            
+        </span>
+    </div>
+</div>
+
+        
+            
+            
+            <div class="cast-item media inlineBlock  " data-qa="cast-crew-item">
+    <div class="pull-left">
+    
+        <a href="/celebrity/noah_emmerich" data-qa="cast-crew-item-img-link">
+    
+        
+            <img data-src="https://resizing.flixster.com/VxUgcAkXeoz3nIfzLHJWja5vm9g=/100x120/v2/https://flxt.tmsimg.com/v9/AllPhotos/153741/153741_v9_ba.jpg" class="js-lazyLoad actorThumb medium media-object">
+        
+    
+        </a>
+    
+    </div>
+    <div class="media-body">
+        
+            <a href=" /celebrity/noah_emmerich " class="unstyled articleLink" data-qa="cast-crew-item-link">
+        
+                <span title="Noah Emmerich">
+                    Noah Emmerich
+                </span>
+        
+            </a>
+        
+        <span class="characters subtle smaller" title="Noah Emmerich">
+            
+            <br>
+                
+                    Marlon
+                
+            
+            
+            <br>
+                
+                    
+                
+            
+        </span>
+    </div>
+</div>
+
+        
+            
+            
+            <div class="cast-item media inlineBlock  " data-qa="cast-crew-item">
+    <div class="pull-left">
+    
+        <a href="/celebrity/natasha_mcelhone" data-qa="cast-crew-item-img-link">
+    
+        
+            <img data-src="https://resizing.flixster.com/S3pAv7sitrMzP7S15y4sKhKqgU0=/100x120/v2/https://flxt.tmsimg.com/v9/AllPhotos/69812/69812_v9_ba.jpg" class="js-lazyLoad actorThumb medium media-object">
+        
+    
+        </a>
+    
+    </div>
+    <div class="media-body">
+        
+            <a href=" /celebrity/natasha_mcelhone " class="unstyled articleLink" data-qa="cast-crew-item-link">
+        
+                <span title="Natascha McElhone">
+                    Natascha McElhone
+                </span>
+        
+            </a>
+        
+        <span class="characters subtle smaller" title="Natascha McElhone">
+            
+            <br>
+                
+                    Lauren, 
+                
+                    Sylvia
+                
+            
+            
+            <br>
+                
+                    
+                
+            
+        </span>
+    </div>
+</div>
+
+        
+            
+            
+            <div class="cast-item media inlineBlock  " data-qa="cast-crew-item">
+    <div class="pull-left">
+    
+        <a href="/celebrity/holland_taylor" data-qa="cast-crew-item-img-link">
+    
+        
+            <img data-src="https://resizing.flixster.com/ey0nbn7gXj-Jj4664DRlP9_GMe0=/100x120/v2/https://flxt.tmsimg.com/v9/AllPhotos/1749/1749_v9_bb.jpg" class="js-lazyLoad actorThumb medium media-object">
+        
+    
+        </a>
+    
+    </div>
+    <div class="media-body">
+        
+            <a href=" /celebrity/holland_taylor " class="unstyled articleLink" data-qa="cast-crew-item-link">
+        
+                <span title="Holland Taylor">
+                    Holland Taylor
+                </span>
+        
+            </a>
+        
+        <span class="characters subtle smaller" title="Holland Taylor">
+            
+            <br>
+                
+                    Truman's Mother
+                
+            
+            
+            <br>
+                
+                    
+                
+            
+        </span>
+    </div>
+</div>
+
+        
+            
+            
+            <div class="cast-item media inlineBlock  " data-qa="cast-crew-item">
+    <div class="pull-left">
+    
+        <a href="/celebrity/ed_harris" data-qa="cast-crew-item-img-link">
+    
+        
+            <img data-src="https://resizing.flixster.com/u6mzky-D6dezG0A2kE8apDMi6cI=/100x120/v2/https://flxt.tmsimg.com/v9/AllPhotos/71839/71839_v9_ba.jpg" class="js-lazyLoad actorThumb medium media-object">
+        
+    
+        </a>
+    
+    </div>
+    <div class="media-body">
+        
+            <a href=" /celebrity/ed_harris " class="unstyled articleLink" data-qa="cast-crew-item-link">
+        
+                <span title="Ed Harris">
+                    Ed Harris
+                </span>
+        
+            </a>
+        
+        <span class="characters subtle smaller" title="Ed Harris">
+            
+            <br>
+                
+                    Christof
+                
+            
+            
+            <br>
+                
+                    
+                
+            
+        </span>
+    </div>
+</div>
+
+        
+            
+            
+            <div class="cast-item media inlineBlock  moreCasts hide" data-qa="cast-crew-item">
+    <div class="pull-left">
+    
+        <a href="/celebrity/brian_delate" data-qa="cast-crew-item-img-link">
+    
+        
+            <img data-src="https://resizing.flixster.com/yqErqHbAgpf-0zCOvh72iaP1Quk=/100x120/v2/https://flxt.tmsimg.com/v9/AllPhotos/124098/124098_v9_ba.jpg" class="js-lazyLoad actorThumb medium media-object" src="https://resizing.flixster.com/yqErqHbAgpf-0zCOvh72iaP1Quk=/100x120/v2/https://flxt.tmsimg.com/v9/AllPhotos/124098/124098_v9_ba.jpg" data-revealed="true" style=" -webkit-animation: overlay-fade 1s 1; -o-animation: overlay-fade 1s 1; animation: overlay-fade 1s 1;">
+        
+    
+        </a>
+    
+    </div>
+    <div class="media-body">
+        
+            <a href=" /celebrity/brian_delate " class="unstyled articleLink" data-qa="cast-crew-item-link">
+        
+                <span title="Brian Delate">
+                    Brian Delate
+                </span>
+        
+            </a>
+        
+        <span class="characters subtle smaller" title="Brian Delate">
+            
+            <br>
+                
+                    Truman's Father
+                
+            
+            
+            <br>
+                
+                    
+                
+            
+        </span>
+    </div>
+</div>
+
+        
+            
+            
+            <div class="cast-item media inlineBlock  moreCasts hide" data-qa="cast-crew-item">
+    <div class="pull-left">
+    
+        <a href="/celebrity/una_damon" data-qa="cast-crew-item-img-link">
+    
+        
+            <img data-src="/assets/pizza-pie/images/poster_default_thumbnail.2ec144e61b4.jpg" class="js-lazyLoad actorThumb medium media-object" src="/assets/pizza-pie/images/poster_default_thumbnail.2ec144e61b4.jpg" data-revealed="true" style=" -webkit-animation: overlay-fade 1s 1; -o-animation: overlay-fade 1s 1; animation: overlay-fade 1s 1;">
+        
+    
+        </a>
+    
+    </div>
+    <div class="media-body">
+        
+            <a href=" /celebrity/una_damon " class="unstyled articleLink" data-qa="cast-crew-item-link">
+        
+                <span title="Una Damon">
+                    Una Damon
+                </span>
+        
+            </a>
+        
+        <span class="characters subtle smaller" title="Una Damon">
+            
+            <br>
+                
+                    Chloe
+                
+            
+            
+            <br>
+                
+                    
+                
+            
+        </span>
+    </div>
+</div>
+
+        
+            
+            
+            <div class="cast-item media inlineBlock  moreCasts hide" data-qa="cast-crew-item">
+    <div class="pull-left">
+    
+        <a href="/celebrity/paul_giamatti" data-qa="cast-crew-item-img-link">
+    
+        
+            <img data-src="https://resizing.flixster.com/XbOoD2hC9rIv9v9H3x3lGPVd9Q4=/100x120/v2/https://flxt.tmsimg.com/v9/AllPhotos/70849/70849_v9_bb.jpg" class="js-lazyLoad actorThumb medium media-object" src="https://resizing.flixster.com/XbOoD2hC9rIv9v9H3x3lGPVd9Q4=/100x120/v2/https://flxt.tmsimg.com/v9/AllPhotos/70849/70849_v9_bb.jpg" data-revealed="true" style=" -webkit-animation: overlay-fade 1s 1; -o-animation: overlay-fade 1s 1; animation: overlay-fade 1s 1;">
+        
+    
+        </a>
+    
+    </div>
+    <div class="media-body">
+        
+            <a href=" /celebrity/paul_giamatti " class="unstyled articleLink" data-qa="cast-crew-item-link">
+        
+                <span title="Paul Giamatti">
+                    Paul Giamatti
+                </span>
+        
+            </a>
+        
+        <span class="characters subtle smaller" title="Paul Giamatti">
+            
+            <br>
+                
+                    Control Room Director
+                
+            
+            
+            <br>
+                
+                    
+                
+            
+        </span>
+    </div>
+</div>
+
+        
+            
+            
+            <div class="cast-item media inlineBlock  moreCasts hide" data-qa="cast-crew-item">
+    <div class="pull-left">
+    
+        <a href="/celebrity/philip_baker_hall" data-qa="cast-crew-item-img-link">
+    
+        
+            <img data-src="https://resizing.flixster.com/_RrecxKE7ZtJARqKWmkL9JoYuSw=/100x120/v2/https://flxt.tmsimg.com/v9/AllPhotos/73552/73552_v9_ba.jpg" class="js-lazyLoad actorThumb medium media-object" src="https://resizing.flixster.com/_RrecxKE7ZtJARqKWmkL9JoYuSw=/100x120/v2/https://flxt.tmsimg.com/v9/AllPhotos/73552/73552_v9_ba.jpg" data-revealed="true" style=" -webkit-animation: overlay-fade 1s 1; -o-animation: overlay-fade 1s 1; animation: overlay-fade 1s 1;">
+        
+    
+        </a>
+    
+    </div>
+    <div class="media-body">
+        
+            <a href=" /celebrity/philip_baker_hall " class="unstyled articleLink" data-qa="cast-crew-item-link">
+        
+                <span title="Philip Baker Hall">
+                    Philip Baker Hall
+                </span>
+        
+            </a>
+        
+        <span class="characters subtle smaller" title="Philip Baker Hall">
+            
+            <br>
+                
+                    Network Executive
+                
+            
+            
+            <br>
+                
+                    
+                
+            
+        </span>
+    </div>
+</div>
+
+        
+            
+            
+            <div class="cast-item media inlineBlock  moreCasts hide" data-qa="cast-crew-item">
+    <div class="pull-left">
+    
+        <a href="/celebrity/peter_weir" data-qa="cast-crew-item-img-link">
+    
+        
+            <img data-src="https://resizing.flixster.com/XrzYnkIyiGgXrsq5PjlBj5qMxyM=/100x120/v2/https://flxt.tmsimg.com/v9/AllPhotos/74126/74126_v9_ba.jpg" class="js-lazyLoad actorThumb medium media-object" src="https://resizing.flixster.com/XrzYnkIyiGgXrsq5PjlBj5qMxyM=/100x120/v2/https://flxt.tmsimg.com/v9/AllPhotos/74126/74126_v9_ba.jpg" data-revealed="true" style=" -webkit-animation: overlay-fade 1s 1; -o-animation: overlay-fade 1s 1; animation: overlay-fade 1s 1;">
+        
+    
+        </a>
+    
+    </div>
+    <div class="media-body">
+        
+            <a href=" /celebrity/peter_weir " class="unstyled articleLink" data-qa="cast-crew-item-link">
+        
+                <span title="Peter Weir">
+                    Peter Weir
+                </span>
+        
+            </a>
+        
+        <span class="characters subtle smaller" title="Peter Weir">
+            
+            
+            <br>
+                
+                    
+                        Director
+                    
+                
+            
+        </span>
+    </div>
+</div>
+
+        
+            
+            
+            <div class="cast-item media inlineBlock  moreCasts hide" data-qa="cast-crew-item">
+    <div class="pull-left">
+    
+        <a href="/celebrity/andrew_niccol" data-qa="cast-crew-item-img-link">
+    
+        
+            <img data-src="https://resizing.flixster.com/b3owtxGKOTaQ08W3BvTtWHF-p58=/100x120/v2/https://flxt.tmsimg.com/v9/AllPhotos/74081/74081_v9_ba.jpg" class="js-lazyLoad actorThumb medium media-object" src="https://resizing.flixster.com/b3owtxGKOTaQ08W3BvTtWHF-p58=/100x120/v2/https://flxt.tmsimg.com/v9/AllPhotos/74081/74081_v9_ba.jpg" data-revealed="true" style=" -webkit-animation: overlay-fade 1s 1; -o-animation: overlay-fade 1s 1; animation: overlay-fade 1s 1;">
+        
+    
+        </a>
+    
+    </div>
+    <div class="media-body">
+        
+            <a href=" /celebrity/andrew_niccol " class="unstyled articleLink" data-qa="cast-crew-item-link">
+        
+                <span title="Andrew Niccol">
+                    Andrew Niccol
+                </span>
+        
+            </a>
+        
+        <span class="characters subtle smaller" title="Andrew Niccol">
+            
+            
+            <br>
+                
+                    
+                        Screenwriter
+                    
+                
+            
+        </span>
+    </div>
+</div>
+
+        
+            
+            
+            <div class="cast-item media inlineBlock  moreCasts hide" data-qa="cast-crew-item">
+    <div class="pull-left">
+    
+        <a href="/celebrity/lynn_pleshette" data-qa="cast-crew-item-img-link">
+    
+        
+            <img data-src="/assets/pizza-pie/images/poster_default_thumbnail.2ec144e61b4.jpg" class="js-lazyLoad actorThumb medium media-object" src="/assets/pizza-pie/images/poster_default_thumbnail.2ec144e61b4.jpg" data-revealed="true" style=" -webkit-animation: overlay-fade 1s 1; -o-animation: overlay-fade 1s 1; animation: overlay-fade 1s 1;">
+        
+    
+        </a>
+    
+    </div>
+    <div class="media-body">
+        
+            <a href=" /celebrity/lynn_pleshette " class="unstyled articleLink" data-qa="cast-crew-item-link">
+        
+                <span title="Lynn Pleshette">
+                    Lynn Pleshette
+                </span>
+        
+            </a>
+        
+        <span class="characters subtle smaller" title="Lynn Pleshette">
+            
+            
+            <br>
+                
+                    
+                        Executive Producer
+                    
+                
+            
+        </span>
+    </div>
+</div>
+
+        
+            
+            
+            <div class="cast-item media inlineBlock  moreCasts hide" data-qa="cast-crew-item">
+    <div class="pull-left">
+    
+        <a href="/celebrity/scott_rudin" data-qa="cast-crew-item-img-link">
+    
+        
+            <img data-src="https://resizing.flixster.com/pxquH66gf0a-3VN12JUK_Aw7k20=/100x120/v2/https://flxt.tmsimg.com/v9/AllPhotos/71240/71240_v9_bb.jpg" class="js-lazyLoad actorThumb medium media-object" src="https://resizing.flixster.com/pxquH66gf0a-3VN12JUK_Aw7k20=/100x120/v2/https://flxt.tmsimg.com/v9/AllPhotos/71240/71240_v9_bb.jpg" data-revealed="true" style=" -webkit-animation: overlay-fade 1s 1; -o-animation: overlay-fade 1s 1; animation: overlay-fade 1s 1;">
+        
+    
+        </a>
+    
+    </div>
+    <div class="media-body">
+        
+            <a href=" /celebrity/scott_rudin " class="unstyled articleLink" data-qa="cast-crew-item-link">
+        
+                <span title="Scott Rudin">
+                    Scott Rudin
+                </span>
+        
+            </a>
+        
+        <span class="characters subtle smaller" title="Scott Rudin">
+            
+            
+            <br>
+                
+                    
+                        Producer
+                    
+                
+            
+        </span>
+    </div>
+</div>
+
+        
+            
+            
+            <div class="cast-item media inlineBlock  moreCasts hide" data-qa="cast-crew-item">
+    <div class="pull-left">
+    
+        <a href="/celebrity/andrew_niccol" data-qa="cast-crew-item-img-link">
+    
+        
+            <img data-src="https://resizing.flixster.com/b3owtxGKOTaQ08W3BvTtWHF-p58=/100x120/v2/https://flxt.tmsimg.com/v9/AllPhotos/74081/74081_v9_ba.jpg" class="js-lazyLoad actorThumb medium media-object" src="https://resizing.flixster.com/b3owtxGKOTaQ08W3BvTtWHF-p58=/100x120/v2/https://flxt.tmsimg.com/v9/AllPhotos/74081/74081_v9_ba.jpg" data-revealed="true" style=" -webkit-animation: overlay-fade 1s 1; -o-animation: overlay-fade 1s 1; animation: overlay-fade 1s 1;">
+        
+    
+        </a>
+    
+    </div>
+    <div class="media-body">
+        
+            <a href=" /celebrity/andrew_niccol " class="unstyled articleLink" data-qa="cast-crew-item-link">
+        
+                <span title="Andrew Niccol">
+                    Andrew Niccol
+                </span>
+        
+            </a>
+        
+        <span class="characters subtle smaller" title="Andrew Niccol">
+            
+            
+            <br>
+                
+                    
+                        Producer
+                    
+                
+            
+        </span>
+    </div>
+</div>
+
+        
+            
+            
+            <div class="cast-item media inlineBlock  moreCasts hide" data-qa="cast-crew-item">
+    <div class="pull-left">
+    
+        <a href="/celebrity/edward_s_feldman" data-qa="cast-crew-item-img-link">
+    
+        
+            <img data-src="https://resizing.flixster.com/p5eqdQAiQqC4AW1-5gYyd8j_MQM=/100x120/v2/https://flxt.tmsimg.com/v9/AllPhotos/363941/363941_v9_ba.jpg" class="js-lazyLoad actorThumb medium media-object" src="https://resizing.flixster.com/p5eqdQAiQqC4AW1-5gYyd8j_MQM=/100x120/v2/https://flxt.tmsimg.com/v9/AllPhotos/363941/363941_v9_ba.jpg" data-revealed="true" style=" -webkit-animation: overlay-fade 1s 1; -o-animation: overlay-fade 1s 1; animation: overlay-fade 1s 1;">
+        
+    
+        </a>
+    
+    </div>
+    <div class="media-body">
+        
+            <a href=" /celebrity/edward_s_feldman " class="unstyled articleLink" data-qa="cast-crew-item-link">
+        
+                <span title="Edward S. Feldman">
+                    Edward S. Feldman
+                </span>
+        
+            </a>
+        
+        <span class="characters subtle smaller" title="Edward S. Feldman">
+            
+            
+            <br>
+                
+                    
+                        Producer
+                    
+                
+            
+        </span>
+    </div>
+</div>
+
+        
+            
+            
+            <div class="cast-item media inlineBlock  moreCasts hide" data-qa="cast-crew-item">
+    <div class="pull-left">
+    
+        <a href="/celebrity/adam_schroeder" data-qa="cast-crew-item-img-link">
+    
+        
+            <img data-src="/assets/pizza-pie/images/poster_default_thumbnail.2ec144e61b4.jpg" class="js-lazyLoad actorThumb medium media-object" src="/assets/pizza-pie/images/poster_default_thumbnail.2ec144e61b4.jpg" data-revealed="true" style=" -webkit-animation: overlay-fade 1s 1; -o-animation: overlay-fade 1s 1; animation: overlay-fade 1s 1;">
+        
+    
+        </a>
+    
+    </div>
+    <div class="media-body">
+        
+            <a href=" /celebrity/adam_schroeder " class="unstyled articleLink" data-qa="cast-crew-item-link">
+        
+                <span title="Adam Schroeder">
+                    Adam Schroeder
+                </span>
+        
+            </a>
+        
+        <span class="characters subtle smaller" title="Adam Schroeder">
+            
+            
+            <br>
+                
+                    
+                        Producer
+                    
+                
+            
+        </span>
+    </div>
+</div>
+
+        
+    </div>
+    
+    <a href="javascript:void(0)" id="showMoreCastAndCrew" class="unstyled articleLink" data-qa="cast-crew-show-more-btn">
+        Show all Cast &amp; Crew <span class="caret"></span>
+    </a>
+    
+    
+
+
+
+                </div>
+            </section>
+
+            
+                <section id="newsSection" class="panel panel-rt panel-box" data-qa="news-section">
+                    <h2 class="panel-heading" data-qa="news-section-title">News &amp; Interviews for <em>The Truman Show</em></h2>
+                    <div class="panel-body content_body">
+                        
+                        
+
+<div class="news-article-wrap  ">
+    
+        <div class="news-article" data-qa="news-article">
+            
+            <a href="https://editorial.rottentomatoes.com/article/42-fresh-movies-and-netflix-originals-streaming-in-january/" data-qa="news-article-link">
+                <div class="news-article-image js-lazyLoad" data-src="https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2017/12/16101337/Dallas-Buyers-Club-January-Streaming.jpg" data-bg-image="true" style="background-size: cover;"></div>
+                <div class="news-article-title">
+                    All 42 Fresh Movies and Originals Coming to Netflix in January
+
+                    <!-- for "features"-->
+                    <div><strong></strong></div>
+                    
+                </div>
+            </a>
+        </div>
+    
+        <div class="news-article" data-qa="news-article">
+            
+            <a href="https://editorial.rottentomatoes.com/article/rank-the-freshest-movies-of-the-1990s/" data-qa="news-article-link">
+                <div class="news-article-image js-lazyLoad" data-src="https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2017/09/27180646/Freshest-Movies-1990s-Recall.jpg" data-bg-image="true" style="background-size: cover;"></div>
+                <div class="news-article-title">
+                    Rank The Freshest Movies of the 1990s
+
+                    <!-- for "features"-->
+                    <div><strong></strong></div>
+                    
+                </div>
+            </a>
+        </div>
+    
+        <div class="news-article" data-qa="news-article">
+            
+            <a href="https://editorial.rottentomatoes.com/article/best-reviewed-summer-blockbusters-by-year/" data-qa="news-article-link">
+                <div class="news-article-image js-lazyLoad" data-src="https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2016/07/02135740/Best-Summer-Blockbusters-by-Year.jpg" data-bg-image="true" style="background-size: cover;"></div>
+                <div class="news-article-title">
+                    Best-Reviewed Summer Blockbusters by Year Since 1975
+
+                    <!-- for "features"-->
+                    <div><strong></strong></div>
+                    
+                </div>
+            </a>
+        </div>
+    
+</div>
+
+<div class="view-all-wrap">
+    <a href=" https://editorial.rottentomatoes.com/more-related-content/?relatedmovieid=10679 " data-qa="news-view-all-link">View All</a>
+</div>
+
+                    </div>
+                </section>
+            
+
+            
+            
+
+            <section id="contentReviews" class="panel panel-rt panel-box" data-qa="critic-reviews-section">
+                <h2 class="panel-heading" data-qa="critic-reviews-section-title">Critic Reviews for <em>The Truman Show</em></h2>
+                <div class="panel-body content_body">
+                    
+                        
+    <p id="criticHeaders" data-qa="critic-reviews-filter">
+        <a class="criticHeadersLink small unstyled subtle articleLink" href="/m/truman_show/reviews" data-qa="critic-reviews-all-filter">All Critics (132)</a>
+        | <a class="criticHeadersLink small unstyled subtle articleLink" href="/m/truman_show/reviews?type=top_critics" data-qa="critic-reviews-top-filter">Top Critics (35)</a>
+        
+        
+            | <a class="criticHeadersLink small unstyled subtle articleLink" href="/m/truman_show/reviews?sort=fresh" data-qa="critic-reviews-fresh-filter">Fresh (125)</a>
+            | <a class="criticHeadersLink small unstyled subtle articleLink" href="/m/truman_show/reviews?sort=rotten" data-qa="critic-reviews-rotten-filter">Rotten (7)</a>
+        
+    </p>
+
+<div id="reviews" data-qa="critic-reviews">
+    
+        
+        
+        <ul>
+            
+                
+                
+
+
+
+    
+
+<li class="quote_bubble  top_critic pull-left cl" data-qa="quote-bubble">
+    <div class="review_quote">
+        
+            
+        
+
+        <div class="media">
+            <div class="pull-left">
+                
+                    <span class="media-img icon small fresh"></span>
+                
+            </div>
+            <blockquote class="media-body quote_bubble__quote" cite="https://www.hollywoodreporter.com/review/truman-show-review-1998-movie-1195488">
+                <p>
+                    
+                        [A] masterfully executed cautionary tale... Yet there's something missing here: While Weir delivers both sharp wit and gentle poignancy, Truman's end catharsis needs greater emotional heft.
+                    
+                </p>
+                <div class="pull-right smaller">
+                    
+                        June 15, 2020
+                    
+                    
+                    
+                        | <a href="https://www.hollywoodreporter.com/review/truman-show-review-1998-movie-1195488" target="_blank" data-qa="quote-bubble-review-link">Full Review…</a>
+                    
+                </div>
+            </blockquote>
+        </div>
+    </div>
+    <div class="review_source media">
+        <div class="pull-left">
+            
+                <img src="/assets/pizza-pie/images/placeholder_critic_thumb.7a1d28b8500.gif" data-src="https://d2a5cgar23scu2.cloudfront.net/static/images/redesign/user.none.tmb.jpg" width="50" height="50" class="critic_thumb media-img js-lazyLoad">
+            
+        </div>
+        <cite class="media-body quote_bubble__cite">
+            
+                <p class="quote_bubble__cite-author"><a class="unstyled articleLink fgm" href="/critic/michael-rechtshaffen" data-qa="quote-bubble-critic-link">Michael Rechtshaffen</a></p>
+            
+            
+                <a class="subtle small" href="http://www.hollywoodreporter.com/hr/film/reviews/index.jsp" data-qa="quote-bubble-source-link">Hollywood Reporter</a>
+            
+            
+                
+                    <div class="small superreviewer"><span class="glyphicon glyphicon-star"></span> Top Critic</div>
+                
+            
+        </cite>
+    </div>
+</li>
+
+            
+                
+                
+
+
+
+    
+
+<li class="quote_bubble  top_critic pull-right cr" data-qa="quote-bubble">
+    <div class="review_quote">
+        
+            
+        
+
+        <div class="media">
+            <div class="pull-left">
+                
+                    <span class="media-img icon small fresh"></span>
+                
+            </div>
+            <blockquote class="media-body quote_bubble__quote" cite="http://www.washingtonpost.com/wp-srv/style/longterm/movies/videos/trumanshowkempley.htm">
+                <p>
+                    
+                        One of the smartest, most inventive movies in memory, it manages to be as endearing as it is provocative.
+                    
+                </p>
+                <div class="pull-right smaller">
+                    
+                        August 18, 2014
+                    
+                    
+                    
+                        | <a href="http://www.washingtonpost.com/wp-srv/style/longterm/movies/videos/trumanshowkempley.htm" target="_blank" data-qa="quote-bubble-review-link">Full Review…</a>
+                    
+                </div>
+            </blockquote>
+        </div>
+    </div>
+    <div class="review_source media">
+        <div class="pull-left">
+            
+                <img src="/assets/pizza-pie/images/placeholder_critic_thumb.7a1d28b8500.gif" data-src="https://d2a5cgar23scu2.cloudfront.net/static/images/redesign/user.none.tmb.jpg" width="50" height="50" class="critic_thumb media-img js-lazyLoad">
+            
+        </div>
+        <cite class="media-body quote_bubble__cite">
+            
+                <p class="quote_bubble__cite-author"><a class="unstyled articleLink fgm" href="/critic/rita-kempley" data-qa="quote-bubble-critic-link">Rita Kempley</a></p>
+            
+            
+                <a class="subtle small" href="http://www.washingtonpost.com/goingoutguide/movies" data-qa="quote-bubble-source-link">Washington Post</a>
+            
+            
+                
+                    <div class="small superreviewer"><span class="glyphicon glyphicon-star"></span> Top Critic</div>
+                
+            
+        </cite>
+    </div>
+</li>
+
+            
+                
+                
+
+
+
+    
+
+<li class="quote_bubble  top_critic pull-left cl" data-qa="quote-bubble">
+    <div class="review_quote">
+        
+            
+        
+
+        <div class="media">
+            <div class="pull-left">
+                
+                    <span rel="tooltip" data-toggle="tooltip" data-placement="right" title="" class="media-img icon small fresh" data-original-title="Original Score: 4/4"></span>
+                
+            </div>
+            <blockquote class="media-body quote_bubble__quote" cite="http://www.nydailynews.com/archives/nydn-features/air-truman-life-camera-action-carrey-dramatic-role-peter-weir-wonderful-satire-media-manipulation-article-1.799169">
+                <p>
+                    
+                        The premise of Peter Weir's The Truman Show is both reasonable and ludicrous, its execution sublime.
+                    
+                </p>
+                <div class="pull-right smaller">
+                    
+                        August 18, 2014
+                    
+                    
+                        | Rating: 4/4
+                    
+                    
+                        | <a href="http://www.nydailynews.com/archives/nydn-features/air-truman-life-camera-action-carrey-dramatic-role-peter-weir-wonderful-satire-media-manipulation-article-1.799169" target="_blank" data-qa="quote-bubble-review-link">Full Review…</a>
+                    
+                </div>
+            </blockquote>
+        </div>
+    </div>
+    <div class="review_source media">
+        <div class="pull-left">
+            
+                <img src="/assets/pizza-pie/images/placeholder_critic_thumb.7a1d28b8500.gif" data-src="https://d2a5cgar23scu2.cloudfront.net/static/images/redesign/user.none.tmb.jpg" width="50" height="50" class="critic_thumb media-img js-lazyLoad">
+            
+        </div>
+        <cite class="media-body quote_bubble__cite">
+            
+                <p class="quote_bubble__cite-author"><a class="unstyled articleLink fgm" href="/critic/jami-bernard" data-qa="quote-bubble-critic-link">Jami Bernard</a></p>
+            
+            
+                <a class="subtle small" href="http://www.nydailynews.com/entertainment/movies/index.html" data-qa="quote-bubble-source-link">New York Daily News</a>
+            
+            
+                
+                    <div class="small superreviewer"><span class="glyphicon glyphicon-star"></span> Top Critic</div>
+                
+            
+        </cite>
+    </div>
+</li>
+
+            
+                
+                
+
+
+
+    
+
+<li class="quote_bubble  top_critic pull-right cr" data-qa="quote-bubble">
+    <div class="review_quote">
+        
+            
+        
+
+        <div class="media">
+            <div class="pull-left">
+                
+                    <span rel="tooltip" data-toggle="tooltip" data-placement="right" title="" class="media-img icon small fresh" data-original-title="Original Score: 3.5/4"></span>
+                
+            </div>
+            <blockquote class="media-body quote_bubble__quote" cite="http://articles.philly.com/1998-06-05/entertainment/25728496_1_truman-show-tv-requiem">
+                <p>
+                    
+                        Most movies are lucky to have one idea rattling around inside. The unusually resonant Truman positively vibrates with themes.
+                    
+                </p>
+                <div class="pull-right smaller">
+                    
+                        August 18, 2014
+                    
+                    
+                        | Rating: 3.5/4
+                    
+                    
+                        | <a href="http://articles.philly.com/1998-06-05/entertainment/25728496_1_truman-show-tv-requiem" target="_blank" data-qa="quote-bubble-review-link">Full Review…</a>
+                    
+                </div>
+            </blockquote>
+        </div>
+    </div>
+    <div class="review_source media">
+        <div class="pull-left">
+            
+                <img src="/assets/pizza-pie/images/placeholder_critic_thumb.7a1d28b8500.gif" data-src="http://resizing.flixster.com/xWGmhAyUhDgOfiNBNdoFvZc8iRI=/38x46/v1.YzsxNjg1O2o7MTg2MzA7MjA0ODszODs0Ng" width="50" height="50" class="critic_thumb media-img js-lazyLoad">
+            
+        </div>
+        <cite class="media-body quote_bubble__cite">
+            
+                <p class="quote_bubble__cite-author"><a class="unstyled articleLink fgm" href="/critic/carrie-rickey" data-qa="quote-bubble-critic-link">Carrie Rickey</a></p>
+            
+            
+                <a class="subtle small" href="http://www.philly.com/philly_movies.rss" data-qa="quote-bubble-source-link">Philadelphia Inquirer</a>
+            
+            
+                
+                    <div class="small superreviewer"><span class="glyphicon glyphicon-star"></span> Top Critic</div>
+                
+            
+        </cite>
+    </div>
+</li>
+
+            
+                
+                
+
+
+
+    
+
+<li class="quote_bubble  top_critic pull-left cl" data-qa="quote-bubble">
+    <div class="review_quote">
+        
+            
+        
+
+        <div class="media">
+            <div class="pull-left">
+                
+                    <span class="media-img icon small fresh"></span>
+                
+            </div>
+            <blockquote class="media-body quote_bubble__quote" cite="http://www.rollingstone.com/movies/reviews/the-truman-show-19980605">
+                <p>
+                    
+                        The Truman Show finds a near-miraculous balance of humor and feeling in the keen intelligence of the script by Andrew Niccol and the prodigal inventiveness of Dead Poets Society director Peter Weir at his very best.
+                    
+                </p>
+                <div class="pull-right smaller">
+                    
+                        August 18, 2014
+                    
+                    
+                    
+                        | <a href="http://www.rollingstone.com/movies/reviews/the-truman-show-19980605" target="_blank" data-qa="quote-bubble-review-link">Full Review…</a>
+                    
+                </div>
+            </blockquote>
+        </div>
+    </div>
+    <div class="review_source media">
+        <div class="pull-left">
+            
+                <img src="/assets/pizza-pie/images/placeholder_critic_thumb.7a1d28b8500.gif" data-src="http://resizing.flixster.com/5SiWheWOkB9Q6_8xr9SibcuoIV8=/128x128/v1.YzszODEwO3A7MTg2MzA7MjA0ODs4NzY7ODM0" width="50" height="50" class="critic_thumb media-img js-lazyLoad">
+            
+        </div>
+        <cite class="media-body quote_bubble__cite">
+            
+                <p class="quote_bubble__cite-author"><a class="unstyled articleLink fgm" href="/critic/peter-travers" data-qa="quote-bubble-critic-link">Peter Travers</a></p>
+            
+            
+                <a class="subtle small" href="http://www.rollingstone.com/movies/reviews" data-qa="quote-bubble-source-link">Rolling Stone</a>
+            
+            
+                
+                    <div class="small superreviewer"><span class="glyphicon glyphicon-star"></span> Top Critic</div>
+                
+            
+        </cite>
+    </div>
+</li>
+
+            
+                
+                
+
+
+
+    
+
+<li class="quote_bubble  top_critic pull-right cr" data-qa="quote-bubble">
+    <div class="review_quote">
+        
+            
+        
+
+        <div class="media">
+            <div class="pull-left">
+                
+                    <span class="media-img icon small fresh"></span>
+                
+            </div>
+            <blockquote class="media-body quote_bubble__quote" cite="http://www.washingtonpost.com/wp-srv/style/longterm/movies/videos/trumanshowosullivan.htm">
+                <p>
+                    
+                        To be sure, the movie has plenty of laughs, but like sunlight on the deceptively calm surface of the sea, its light humor dances fitfully over dark and dangerous undercurrents.
+                    
+                </p>
+                <div class="pull-right smaller">
+                    
+                        August 18, 2014
+                    
+                    
+                    
+                        | <a href="http://www.washingtonpost.com/wp-srv/style/longterm/movies/videos/trumanshowosullivan.htm" target="_blank" data-qa="quote-bubble-review-link">Full Review…</a>
+                    
+                </div>
+            </blockquote>
+        </div>
+    </div>
+    <div class="review_source media">
+        <div class="pull-left">
+            
+                <img src="/assets/pizza-pie/images/placeholder_critic_thumb.7a1d28b8500.gif" data-src="https://d2a5cgar23scu2.cloudfront.net/static/images/redesign/user.none.tmb.jpg" width="50" height="50" class="critic_thumb media-img js-lazyLoad">
+            
+        </div>
+        <cite class="media-body quote_bubble__cite">
+            
+                <p class="quote_bubble__cite-author"><a class="unstyled articleLink fgm" href="/critic/michael-osullivan" data-qa="quote-bubble-critic-link">Michael O'Sullivan</a></p>
+            
+            
+                <a class="subtle small" href="http://www.washingtonpost.com/goingoutguide/movies" data-qa="quote-bubble-source-link">Washington Post</a>
+            
+            
+                
+                    <div class="small superreviewer"><span class="glyphicon glyphicon-star"></span> Top Critic</div>
+                
+            
+        </cite>
+    </div>
+</li>
+
+            
+                
+                
+
+    
+
+
+
+<li class="quote_bubble  hidden-xs pull-left cl" data-qa="quote-bubble">
+    <div class="review_quote">
+        
+            
+        
+
+        <div class="media">
+            <div class="pull-left">
+                
+                    <span class="media-img icon small fresh"></span>
+                
+            </div>
+            <blockquote class="media-body quote_bubble__quote" cite="https://www.filmcompanion.in/streaming/netflix/best-movies-on-netflix-baahubali-the-irishman-lagaan-andhadhun/">
+                <p>
+                    
+                        The ahead-of-its-time film spoke volumes about everything from politics to the rampant rise of reality TV.
+                    
+                </p>
+                <div class="pull-right smaller">
+                    
+                        October 28, 2020
+                    
+                    
+                    
+                        | <a href="https://www.filmcompanion.in/streaming/netflix/best-movies-on-netflix-baahubali-the-irishman-lagaan-andhadhun/" target="_blank" data-qa="quote-bubble-review-link">Full Review…</a>
+                    
+                </div>
+            </blockquote>
+        </div>
+    </div>
+    <div class="review_source media">
+        <div class="pull-left">
+            
+                <img src="/assets/pizza-pie/images/placeholder_critic_thumb.7a1d28b8500.gif" data-src="https://d2a5cgar23scu2.cloudfront.net/static/images/redesign/user.none.tmb.jpg" width="50" height="50" class="critic_thumb media-img js-lazyLoad">
+            
+        </div>
+        <cite class="media-body quote_bubble__cite">
+            
+                <p class="quote_bubble__cite-author"><a class="unstyled articleLink fgm" href="/critic/film-companion-staff" data-qa="quote-bubble-critic-link">Film Companion Staff</a></p>
+            
+            
+                <a class="subtle small" href="https://www.filmcompanion.in/category/reviews/movies/" data-qa="quote-bubble-source-link">Film Companion</a>
+            
+            
+        </cite>
+    </div>
+</li>
+
+            
+                
+                
+
+    
+
+
+
+<li class="quote_bubble  hidden-xs pull-right cr" data-qa="quote-bubble">
+    <div class="review_quote">
+        
+            
+        
+
+        <div class="media">
+            <div class="pull-left">
+                
+                    <span class="media-img icon small fresh"></span>
+                
+            </div>
+            <blockquote class="media-body quote_bubble__quote" cite="https://youtu.be/dV4WG54-ZnE">
+                <p>
+                    
+                        My favorite role of Jim Carrey's career
+                    
+                </p>
+                <div class="pull-right smaller">
+                    
+                        October 11, 2020
+                    
+                    
+                    
+                        | <a href="https://youtu.be/dV4WG54-ZnE" target="_blank" data-qa="quote-bubble-review-link">Full Review…</a>
+                    
+                </div>
+            </blockquote>
+        </div>
+    </div>
+    <div class="review_source media">
+        <div class="pull-left">
+            
+                <img src="/assets/pizza-pie/images/placeholder_critic_thumb.7a1d28b8500.gif" data-src="http://resizing.flixster.com/a-yz9A1xVdtRWGPq_pimbzE6XoE=/128x128/v1.YzszMjU3O2o7MTg2MzA7MjA0ODszMDA7MzAw" width="50" height="50" class="critic_thumb media-img js-lazyLoad">
+            
+        </div>
+        <cite class="media-body quote_bubble__cite">
+            
+                <p class="quote_bubble__cite-author"><a class="unstyled articleLink fgm" href="/critic/rachel-wagner" data-qa="quote-bubble-critic-link">Rachel Wagner</a></p>
+            
+            
+                <a class="subtle small" href="https://www.youtube.com/user/smilingldsgirl" data-qa="quote-bubble-source-link">Rachel's Reviews (YouTube)</a>
+            
+            
+        </cite>
+    </div>
+</li>
+
+            
+                
+                
+
+    
+
+
+
+<li class="quote_bubble  hidden-xs pull-left cl" data-qa="quote-bubble">
+    <div class="review_quote">
+        
+            
+        
+
+        <div class="media">
+            <div class="pull-left">
+                
+                    <span rel="tooltip" data-toggle="tooltip" data-placement="right" title="" class="media-img icon small fresh" data-original-title="Original Score: 4.5/5"></span>
+                
+            </div>
+            <blockquote class="media-body quote_bubble__quote" cite="https://cinexpresspr.com/site/2020/08/19/throwback-21-the-truman-show/">
+                <p>
+                    
+                        Ahead of its time, The Truman Show remains one of the best scripts ever. Clever and sweet, Peter Weir's execution is near perfect. Oh, and Jim Carrey is fantastic. [Full review in Spanish]
+                    
+                </p>
+                <div class="pull-right smaller">
+                    
+                        August 21, 2020
+                    
+                    
+                        | Rating: 4.5/5
+                    
+                    
+                        | <a href="https://cinexpresspr.com/site/2020/08/19/throwback-21-the-truman-show/" target="_blank" data-qa="quote-bubble-review-link">Full Review…</a>
+                    
+                </div>
+            </blockquote>
+        </div>
+    </div>
+    <div class="review_source media">
+        <div class="pull-left">
+            
+                <img src="/assets/pizza-pie/images/placeholder_critic_thumb.7a1d28b8500.gif" data-src="http://resizing.flixster.com/bOACXR5fO8jC7xk62YW7AlOnRbc=/128x128/v1.YzszMjgyO2o7MTg2MzA7MjA0ODszMDA7MzAw" width="50" height="50" class="critic_thumb media-img js-lazyLoad">
+            
+        </div>
+        <cite class="media-body quote_bubble__cite">
+            
+                <p class="quote_bubble__cite-author"><a class="unstyled articleLink fgm" href="/critic/fico-cangiano" data-qa="quote-bubble-critic-link">Fico Cangiano</a></p>
+            
+            
+                <a class="subtle small" href="https://cinexpresspr.com/site/category/podcast-2/" data-qa="quote-bubble-source-link">CineXpress Podcast</a>
+            
+            
+        </cite>
+    </div>
+</li>
+
+            
+                
+                
+
+    
+
+
+
+<li class="quote_bubble  hidden-xs pull-right cr" data-qa="quote-bubble">
+    <div class="review_quote">
+        
+            
+        
+
+        <div class="media">
+            <div class="pull-left">
+                
+                    <span class="media-img icon small fresh"></span>
+                
+            </div>
+            <blockquote class="media-body quote_bubble__quote" cite="https://classic.esquire.com/article/1998/5/1/a-dark-bright-light">
+                <p>
+                    
+                        The Truman Show is one of the most startlingly original American movies in years, enough to give one faith in the salutary and inspiring nearness of the new millennium.
+                    
+                </p>
+                <div class="pull-right smaller">
+                    
+                        August 12, 2020
+                    
+                    
+                    
+                        | <a href="https://classic.esquire.com/article/1998/5/1/a-dark-bright-light" target="_blank" data-qa="quote-bubble-review-link">Full Review…</a>
+                    
+                </div>
+            </blockquote>
+        </div>
+    </div>
+    <div class="review_source media">
+        <div class="pull-left">
+            
+                <img src="/assets/pizza-pie/images/placeholder_critic_thumb.7a1d28b8500.gif" data-src="https://d2a5cgar23scu2.cloudfront.net/static/images/redesign/user.none.tmb.jpg" width="50" height="50" class="critic_thumb media-img js-lazyLoad">
+            
+        </div>
+        <cite class="media-body quote_bubble__cite">
+            
+                <p class="quote_bubble__cite-author"><a class="unstyled articleLink fgm" href="/critic/david-thomson" data-qa="quote-bubble-critic-link">David Thomson</a></p>
+            
+            
+                <a class="subtle small" href="https://www.esquire.com/entertainment/" data-qa="quote-bubble-source-link">Esquire Magazine</a>
+            
+            
+        </cite>
+    </div>
+</li>
+
+            
+                
+                
+
+    
+
+
+
+<li class="quote_bubble  hidden-xs pull-left cl" data-qa="quote-bubble">
+    <div class="review_quote">
+        
+            
+        
+
+        <div class="media">
+            <div class="pull-left">
+                
+                    <span rel="tooltip" data-toggle="tooltip" data-placement="right" title="" class="media-img icon small fresh" data-original-title="Original Score: 4/5"></span>
+                
+            </div>
+            <blockquote class="media-body quote_bubble__quote" cite="https://www.heraldsun.com.au/entertainment/movies/leigh-paatsch/every-movie-rated-on-melbourne-tv-tonight/news-story/8267c714ae9b1ac40e265a925b9ae547">
+                <p>
+                    
+                        As Truman, Jim Carrey turns his usually frenetic acting style down to a subtle level many would have thought beyond him.
+                    
+                </p>
+                <div class="pull-right smaller">
+                    
+                        May 12, 2020
+                    
+                    
+                        | Rating: 4/5
+                    
+                    
+                        | <a href="https://www.heraldsun.com.au/entertainment/movies/leigh-paatsch/every-movie-rated-on-melbourne-tv-tonight/news-story/8267c714ae9b1ac40e265a925b9ae547" target="_blank" data-qa="quote-bubble-review-link">Full Review…</a>
+                    
+                </div>
+            </blockquote>
+        </div>
+    </div>
+    <div class="review_source media">
+        <div class="pull-left">
+            
+                <img src="/assets/pizza-pie/images/placeholder_critic_thumb.7a1d28b8500.gif" data-src="https://d2a5cgar23scu2.cloudfront.net/static/images/redesign/user.none.tmb.jpg" width="50" height="50" class="critic_thumb media-img js-lazyLoad">
+            
+        </div>
+        <cite class="media-body quote_bubble__cite">
+            
+                <p class="quote_bubble__cite-author"><a class="unstyled articleLink fgm" href="/critic/leigh-paatsch" data-qa="quote-bubble-critic-link">Leigh Paatsch</a></p>
+            
+            
+                <a class="subtle small" href="http://www.heraldsun.com.au/entertainment/movies/leigh-paatsch" data-qa="quote-bubble-source-link">Herald Sun (Australia)</a>
+            
+            
+        </cite>
+    </div>
+</li>
+
+            
+                
+                
+
+    
+
+
+
+<li class="quote_bubble  hidden-xs pull-right cr" data-qa="quote-bubble">
+    <div class="review_quote">
+        
+            
+        
+
+        <div class="media">
+            <div class="pull-left">
+                
+                    <span class="media-img icon small fresh"></span>
+                
+            </div>
+            <blockquote class="media-body quote_bubble__quote" cite="https://culturevulture.net/etc/futurama-in-film/">
+                <p>
+                    
+                        You can't take your eyes off Jim Carry. He's the most likable clown since Charlie Chaplin, and his sunny smile lightens the serious subject matter. He's the perfect subject to make Reality TV a reality.
+                    
+                </p>
+                <div class="pull-right smaller">
+                    
+                        June 11, 2019
+                    
+                    
+                    
+                        | <a href="https://culturevulture.net/etc/futurama-in-film/" target="_blank" data-qa="quote-bubble-review-link">Full Review…</a>
+                    
+                </div>
+            </blockquote>
+        </div>
+    </div>
+    <div class="review_source media">
+        <div class="pull-left">
+            
+                <img src="/assets/pizza-pie/images/placeholder_critic_thumb.7a1d28b8500.gif" data-src="http://resizing.flixster.com/guR_fdbRoO8-3Ow-EORy5JQ0sYg=/128x128/v1.YzszMzIwO2o7MTg2MzA7MjA0ODszMDA7MzAw" width="50" height="50" class="critic_thumb media-img js-lazyLoad">
+            
+        </div>
+        <cite class="media-body quote_bubble__cite">
+            
+                <p class="quote_bubble__cite-author"><a class="unstyled articleLink fgm" href="/critic/asher-luberto" data-qa="quote-bubble-critic-link">Asher Luberto</a></p>
+            
+            
+                <a class="subtle small" href="" data-qa="quote-bubble-source-link">culturevulture.net</a>
+            
+            
+        </cite>
+    </div>
+</li>
+
+            
+        </ul>
+    
+</div>
+
+                        <div class="view-all">
+                            
+                                <a class="view_all_critic_reviews" href="/m/truman_show/reviews/" data-qa="critic-reviews-view-all-link">View All Critic Reviews (132) </a>
+                            
+                        </div>
+                    
+                </div>
+            </section>
+
+            <!-- salt=showersham-c880 -->
+<section id="audience_reviews" class="panel panel-rt panel-box" data-qa="audience-reviews">
+    <h2 class="panel-heading">Audience Reviews for <em>The Truman Show</em></h2>
+    
+        
+        <div class="sr-only js-clamp-live-region" aria-live="polite"></div>
+        <ul class="mop-audience-reviews__reviews-wrap clearfix">
+            
+            
+            
+                <li class="mop-audience-reviews__review-item pull-left cl" data-qa="quote-bubble">
+                    <div class="mop-audience-reviews__review-quote" data-qa="quote-bubble-review">
+                        <div class=" clearfix">
+                            
+                                <span class="star-display"><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__half "></span></span>
+                            
+                            <span class="mop-audience-reviews__review--duration">May 30, 2016</span>
+                        </div>
+                        
+                        <div class="mop-audience-reviews__review--comment clamp clamp-4 js-clamp" data-clamp="true">The Truman Show stars Jim Carrey in his prime as the titular character, Truman, whose life is a complete lie. Truman lives in an artificial world with actors and extras in the "world's largest set," and his life is recorded and broadcast worldwide 24 hours a day. While the premise is ridiculous, there's actually a lot of substance here. Carrey shines in the lead role as he discovers the lies of his life. The cinematography is brilliant as the viewer always knows when the movie is being viewed through a TV camera by use of curved off edges around each corner. Philip Glass provides original scoring as well as famous piano works, and his music is very passionate with the mood of the film. The subtext of the movie, highlighting the absurdities of following a person's every meaningless move, is even more relevant in today's world than at the time of its release. For those who are a fan of Jim Carrey, this is a must-see. Depth of the movie aside, The Truman Show is a fun and heartfelt achievement.</div><div class="clamp-toggle__container"><button type="button" class="button--link js-clamp-toggle clamp-toggle__show-more clamp-toggle__show-more--bold" data-qa="more-btn">Show More</button></div>
+                    </div>
+                    <div class="mop-audience-reviews__review--user-wrap">
+                        
+                            <a href="/user/id/952059214">
+                            
+                                <span class="mop-audience-reviews__review--user-default"></span>
+                            
+                            </a>
+                        
+                        <div class="mop-audience-reviews__review--name-wrap">
+                            
+                                <a href="/user/id/952059214">
+                                    <span class="mop-audience-reviews__review--name">Ben B</span>
+                                </a>
+                            
+                            
+                                <strong class="super-reviewer-badge">Super Reviewer</strong>
+                            
+                        </div>
+                    </div>
+                </li>
+                
+                <li class="mop-audience-reviews__review-item pull-right cr" data-qa="quote-bubble">
+                    <div class="mop-audience-reviews__review-quote" data-qa="quote-bubble-review">
+                        <div class=" clearfix">
+                            
+                                <span class="star-display"><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span></span>
+                            
+                            <span class="mop-audience-reviews__review--duration">Feb 19, 2016</span>
+                        </div>
+                        
+                        <div class="mop-audience-reviews__review--comment clamp clamp-4 js-clamp" data-clamp="true">Arguably one of the best satirical film and one of the few films where I could stand Jim Carrey. I loved everything about the film, the 50s set design, the dark dialogues and the underlying message about the celebrity culture. It is a story of a man trapped from his birth and his quest to recover his freedom.</div><div class="clamp-toggle__container"><button type="button" class="button--link js-clamp-toggle clamp-toggle__show-more clamp-toggle__show-more--bold" data-qa="more-btn">Show More</button></div>
+                    </div>
+                    <div class="mop-audience-reviews__review--user-wrap">
+                        
+                            <a href="/user/id/892037402">
+                            
+                                <img class="mop-audience-reviews__review--user-avatar" src="https://graph.facebook.com/v3.3/100000185301014/picture">
+                            
+                            </a>
+                        
+                        <div class="mop-audience-reviews__review--name-wrap">
+                            
+                                <a href="/user/id/892037402">
+                                    <span class="mop-audience-reviews__review--name">Sylvester K</span>
+                                </a>
+                            
+                            
+                                <strong class="super-reviewer-badge">Super Reviewer</strong>
+                            
+                        </div>
+                    </div>
+                </li>
+                
+                <li class="mop-audience-reviews__review-item pull-left cl" data-qa="quote-bubble">
+                    <div class="mop-audience-reviews__review-quote" data-qa="quote-bubble-review">
+                        <div class=" clearfix">
+                            
+                                <span class="star-display"><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__half "></span><span class="star-display__empty"></span></span>
+                            
+                            <span class="mop-audience-reviews__review--duration">Apr 05, 2014</span>
+                        </div>
+                        
+                        <div class="mop-audience-reviews__review--comment clamp clamp-4 js-clamp" data-clamp="true">Jim Carrey stars in the smart and satirical comedy The Truman Show.  Unbeknownst to him, Truman Burbank, a small-town insurance salesman, is the star of his own 24-hour television show, but slowly he starts to realize that his life is a facade.  Co-starring Ed Harris, Laura Linney, and Natascha McElhone, the performances are pretty good.  And the film presents some interesting issues, such as the media culture and subjective reality.  However, the material is a little underserved by the story.  Though it doesn't quite meet its ambitious goals, The Truman Show is an impressive film with a powerful message.</div><div class="clamp-toggle__container"><button type="button" class="button--link js-clamp-toggle clamp-toggle__show-more clamp-toggle__show-more--bold" data-qa="more-btn">Show More</button></div>
+                    </div>
+                    <div class="mop-audience-reviews__review--user-wrap">
+                        
+                            <a href="/user/id/906395584">
+                            
+                                <span class="mop-audience-reviews__review--user-default"></span>
+                            
+                            </a>
+                        
+                        <div class="mop-audience-reviews__review--name-wrap">
+                            
+                                <a href="/user/id/906395584">
+                                    <span class="mop-audience-reviews__review--name">Dann M</span>
+                                </a>
+                            
+                            
+                                <strong class="super-reviewer-badge">Super Reviewer</strong>
+                            
+                        </div>
+                    </div>
+                </li>
+                
+                <li class="mop-audience-reviews__review-item pull-right cr" data-qa="quote-bubble">
+                    <div class="mop-audience-reviews__review-quote" data-qa="quote-bubble-review">
+                        <div class=" clearfix">
+                            
+                                <span class="star-display"><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__empty"></span></span>
+                            
+                            <span class="mop-audience-reviews__review--duration">Sep 15, 2013</span>
+                        </div>
+                        
+                        <div class="mop-audience-reviews__review--comment clamp clamp-4 js-clamp" data-clamp="true">I tend to like the film's broader, more philosophical ideas than any of the satirical and "prophetic" observations about the media. And really, the whole thing only works because of Jim Carrey's performance. Its the perfect balance of his charm and manic energy.</div><div class="clamp-toggle__container"><button type="button" class="button--link js-clamp-toggle clamp-toggle__show-more clamp-toggle__show-more--bold" data-qa="more-btn">Show More</button></div>
+                    </div>
+                    <div class="mop-audience-reviews__review--user-wrap">
+                        
+                            <a href="/user/id/790680964">
+                            
+                                <img class="mop-audience-reviews__review--user-avatar" src="https://graph.facebook.com/v3.3/20312798/picture">
+                            
+                            </a>
+                        
+                        <div class="mop-audience-reviews__review--name-wrap">
+                            
+                                <a href="/user/id/790680964">
+                                    <span class="mop-audience-reviews__review--name">Alec B</span>
+                                </a>
+                            
+                            
+                                <strong class="super-reviewer-badge">Super Reviewer</strong>
+                            
+                        </div>
+                    </div>
+                </li>
+                
+        </ul>
+        <div class="mop-audience-reviews__view-all clearfix">
+            <a href="/m/truman_show/reviews?type=user" class="mop-audience-reviews__view-all--link" data-qa="audience-reviews-view-all-link">
+                See all Audience reviews
+            </a>
+        </div>
+    
+</section>
+
+            <section id="quotesList" class="panel panel-rt panel-box" data-qa="quotes-section">
+    <h2 class="panel-heading"><em>The Truman Show</em> Quotes</h2>
+    <div class="panel-body content_body">
+      <div class="media">
+          <div class="pull-right hidden-xs" style="width:310px;">
+              
+              
+    
+    
+    
+    <aside id="medrec_bottom_ad" class="medrec_ad " style="width:300px"><div id="mps-getad-boxadone" class="mps-wrapper" data-mps-fill-slot="mps-getad-boxadone"></div></aside>
+        
+            <script>
+                var mps = mps||{}; mps._queue = mps._queue||{}; mps._queue.gptloaded = mps._queue.gptloaded||[];
+                mps._queue.gptloaded.push(function () {
+                    if (mps.getResponsiveSet() != '0') { //DESKTOP or TABLET
+                        mps.insertAd('#medrec_bottom_ad','boxadone');
+                    } else if (mps.getResponsiveSet() == '0' && 'movie' == 'home') {
+                        mps.insertAd('#medrec_bottom_ad','mboxadtwo');
+                    }
+                });
+            </script>
+        
+        
+        
+        
+
+
+              <br>
+          </div>
+          <div class="media-body">
+              
+                  
+                      
+                          <div class="quote_bubble fullWidth">
+                              <div class="review_quote media" data-qa="quote-text">
+                                  <table class="table-dl-like">
+                                      
+                                          <tbody><tr>
+                                              <td class="quote_actor">Christof:</td>
+                                              <td class="line">Say something, god dammit! You are in television! You're live to the whole world!</td>
+                                          </tr>
+                                      
+                                  </tbody></table>
+                                  <div class="quoteFooter">
+                                      
+                                  </div>
+                              </div>
+                          </div>
+                      
+                  
+                      
+                          <div class="quote_bubble fullWidth">
+                              <div class="review_quote media" data-qa="quote-text">
+                                  <table class="table-dl-like">
+                                      
+                                          <tbody><tr>
+                                              <td class="quote_actor">Truman Burbank:</td>
+                                              <td class="line">Was nothing real?</td>
+                                          </tr>
+                                      
+                                          <tr>
+                                              <td class="quote_actor">Christof:</td>
+                                              <td class="line">You were real... that's what make you so good to watch.</td>
+                                          </tr>
+                                      
+                                  </tbody></table>
+                                  <div class="quoteFooter">
+                                      
+                                  </div>
+                              </div>
+                          </div>
+                      
+                  
+                      
+                          <div class="quote_bubble fullWidth">
+                              <div class="review_quote media" data-qa="quote-text">
+                                  <table class="table-dl-like">
+                                      
+                                          <tbody><tr>
+                                              <td class="quote_actor">Truman Burbank:</td>
+                                              <td class="line">Was nothing real?</td>
+                                          </tr>
+                                      
+                                          <tr>
+                                              <td class="quote_actor">Christof:</td>
+                                              <td class="line">You were real... that's what make you so good to watch.</td>
+                                          </tr>
+                                      
+                                  </tbody></table>
+                                  <div class="quoteFooter">
+                                      
+                                  </div>
+                              </div>
+                          </div>
+                      
+                  
+                      
+                          <div class="quote_bubble fullWidth">
+                              <div class="review_quote media" data-qa="quote-text">
+                                  <table class="table-dl-like">
+                                      
+                                          <tbody><tr>
+                                              <td class="quote_actor">Christof:</td>
+                                              <td class="line">Seahaven is the way the world should be.</td>
+                                          </tr>
+                                      
+                                  </tbody></table>
+                                  <div class="quoteFooter">
+                                      
+                                  </div>
+                              </div>
+                          </div>
+                      
+                  
+              
+              
+                  <div style="display:inline-block; width:100%" class="clickForMore">
+                      <a href="/m/truman_show/quotes/" class="unstyled articleLink fr" data-qa="quote-view-all-link"><p>View All Quotes</p></a>
+                  </div>
+              
+          </div>
+      </div>
+    </div>
+</section>
+
+
+            
+            
+            <section id="newsAndFeatures" class="panel panel-rt panel-box" data-qa="news-features-section">
+    <h2 class="panel-heading" data-qa="news-features-section-title">Movie &amp; TV guides</h2>
+    <div class="panel-body content_body">
+        <div class="media-body">
+            <div class="panel-body">
+                <div class="col-sm-15">
+                    
+                        <div id="FeaturedSection" data-qa="featured-section">
+                            
+                            
+                            
+
+<div class="news-article-wrap   article-grid ">
+    
+        <div class="news-article" data-qa="news-article">
+            
+            <a href="https://editorial.rottentomatoes.com/guide/best-horror-movies-of-all-time/" data-qa="news-article-link">
+                <div class="news-article-image js-lazyLoad" data-src="https://resizing.flixster.com/8dbP-EaHvqToFmVhZNqocpmc0xM=/206x156/v1.czsxMDI4Mjk1ODtqOzE4NjU5OzEyMDA7MjA2OzE1Ng" data-bg-image="true" style="background-size: cover;"></div>
+                <div class="news-article-title">
+                    
+
+                    <!-- for "features"-->
+                    <div><strong>Best Horror Movies</strong></div>
+                    Top 200 of all time
+                </div>
+            </a>
+        </div>
+    
+        <div class="news-article" data-qa="news-article">
+            
+            <a href="https://editorial.rottentomatoes.com/article/rotten-tomatoes-is-wrong-a-podcast-from-rotten-tomatoes/" data-qa="news-article-link">
+                <div class="news-article-image js-lazyLoad" data-src="https://resizing.flixster.com/g5BsmPb_U_o2K2JvM4AaJLk68gM=/206x156/v1.czsxMDI4Mjk1OTtqOzE4NjU5OzEyMDA7MjA2OzE1Ng" data-bg-image="true" style="background-size: cover;"></div>
+                <div class="news-article-title">
+                    
+
+                    <!-- for "features"-->
+                    <div><strong>"Rotten Tomatoes Is Wrong"</strong></div>
+                    Our new podcast
+                </div>
+            </a>
+        </div>
+    
+        <div class="news-article" data-qa="news-article">
+            
+            <a href="https://editorial.rottentomatoes.com/guide/worst-superhero-movies/" data-qa="news-article-link">
+                <div class="news-article-image js-lazyLoad" data-src="https://resizing.flixster.com/ZiVIG2etu7mdyOzEnQCKBrhrYYw=/206x156/v1.czsxMDI4Mjk2MDtqOzE4NjU5OzEyMDA7MjA2OzE1Ng" data-bg-image="true" style="background-size: cover;"></div>
+                <div class="news-article-title">
+                    
+
+                    <!-- for "features"-->
+                    <div><strong>Worst Superhero Movies</strong></div>
+                    Thanks, <em>Squad</em>
+                </div>
+            </a>
+        </div>
+    
+        <div class="news-article" data-qa="news-article">
+            
+            <a href="https://editorial.rottentomatoes.com/guide/best-netflix-shows-and-movies-to-binge-watch-now/" data-qa="news-article-link">
+                <div class="news-article-image js-lazyLoad" data-src="https://resizing.flixster.com/6R0F-6dMdVvq79pjaa62_cVMVmM=/206x156/v1.czsxMDI4Mjk2MjtqOzE4NjU5OzEyMDA7MjA2OzE1Ng" data-bg-image="true" style="background-size: cover;"></div>
+                <div class="news-article-title">
+                    
+
+                    <!-- for "features"-->
+                    <div><strong>Best Netflix Series and Shows</strong></div>
+                    What to binge right now
+                </div>
+            </a>
+        </div>
+    
+</div>
+
+<div class="view-all-wrap">
+    <a href=" https://editorial.rottentomatoes.com/news/ " data-qa="news-view-all-link">View All</a>
+</div>
+
+                        </div>
+                    
+                </div>
+                <div class="col-sm-9 newsList hidden-xs" data-qa="headlines-section">
+                    
+                        <h2 data-qa="headlines-section-title">TOP HEADLINES</h2>
+                        
+                        <div class="col-sm-24">
+                            <ul class="latest-entertainment-headlines redDot">
+                                
+                                
+                                    <li>
+                                        <a target="_blank" href="https://editorial.rottentomatoes.com/guide/best-horror-movies-of-2020/" class="articleLink unstyled" data-qa="headline-link">
+                                            Best Horror Movies of 2020 Ranked
+                                        </a>
+                                        <br>
+                                        
+                                            <span class="subtle">– Rotten Tomatoes</span>
+                                        
+                                    </li>
+                                
+                                    <li>
+                                        <a target="_blank" href="https://editorial.rottentomatoes.com/article/fall-tv-and-streaming-2020-first-look/" class="articleLink unstyled" data-qa="headline-link">
+                                            Fall TV First Look: Find Out What’s Coming
+                                        </a>
+                                        <br>
+                                        
+                                            <span class="subtle">– Rotten Tomatoes</span>
+                                        
+                                    </li>
+                                
+                                    <li>
+                                        <a target="_blank" href="https://editorial.rottentomatoes.com/guide/peacock-original-shows-and-movies-ranked/" class="articleLink unstyled" data-qa="headline-link">
+                                            The Best Peacock Original Shows and Movies
+                                        </a>
+                                        <br>
+                                        
+                                            <span class="subtle">– Rotten Tomatoes</span>
+                                        
+                                    </li>
+                                
+                                    <li>
+                                        <a target="_blank" href="https://editorial.rottentomatoes.com/guide/20-movies-to-watch-if-you-loved-inception/" class="articleLink unstyled" data-qa="headline-link">
+                                            20 Movies To Watch If You Loved <em>Inception</em>
+                                        </a>
+                                        <br>
+                                        
+                                            <span class="subtle">– Rotten Tomatoes</span>
+                                        
+                                    </li>
+                                
+                                    <li>
+                                        <a target="_blank" href="https://editorial.rottentomatoes.com/article/upcoming-disney-movies/" class="articleLink unstyled" data-qa="headline-link">
+                                            All Upcoming Disney Movies: New Disney Live-Action, Animation, Pixar, Marvel, and More
+                                        </a>
+                                        <br>
+                                        
+                                            <span class="subtle">– Rotten Tomatoes</span>
+                                        
+                                    </li>
+                                
+                                    <li>
+                                        <a target="_blank" href="https://editorial.rottentomatoes.com/guide/best-quibi-shows/" class="articleLink unstyled" data-qa="headline-link">
+                                            The Best Quibi Shows to Stream Now
+                                        </a>
+                                        <br>
+                                        
+                                            <span class="subtle">– Rotten Tomatoes</span>
+                                        
+                                    </li>
+                                
+                                    <li>
+                                        <a target="_blank" href="https://editorial.rottentomatoes.com/article/most-anticipated-movies-of-2020/" class="articleLink unstyled" data-qa="headline-link">
+                                            The 64 Most Anticipated Movies of 2020
+                                        </a>
+                                        <br>
+                                        
+                                            <span class="subtle">– Rotten Tomatoes</span>
+                                        
+                                    </li>
+                                
+                                    <li>
+                                        <a target="_blank" href="https://editorial.rottentomatoes.com/guide/sundance-2020-movie-scorecard/" class="articleLink unstyled" data-qa="headline-link">
+                                            Sundance 2020 Movie Scorecard
+                                        </a>
+                                        <br>
+                                        
+                                            <span class="subtle">– Rotten Tomatoes</span>
+                                        
+                                    </li>
+                                
+                            </ul>
+                            <div class="clickForMore">
+                                <a class="articleLink unstyled" href="https://editorial.rottentomatoes.com/publications/" data-qa="headlines-view-all-link"><p>View All</p></a>
+                            </div>
+                        </div>
+                    
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+
+            
+            
+    
+    
+    
+        
+    
+    <aside id="medrec_mobile_mob_bottom_ad" class="medrec_ad visible-xs center mobile-medrec" style="width:300px"></aside>
+        
+        
+        
+        
+            <script>
+                var mps = mps||{}; mps._queue = mps._queue||{}; mps._queue.gptloaded = mps._queue.gptloaded||[];
+                mps._queue.gptloaded.push(function () {
+                    if (mps.getResponsiveSet() == '0') { //MOBILE
+                        mps.insertAd('#medrec_mobile_mob_bottom_ad','mboxadtwo');
+                    }
+                });
+            </script>
+        
+
+
+
+            
+            
+
+        
