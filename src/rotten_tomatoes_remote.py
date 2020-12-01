@@ -59,17 +59,19 @@ def dump_movie_info(year, movie_name, movie_url, dump_to=None):
         xpath = '//*[@id="mainColumn"]/section[{}]/div/div/ul'.format(k)
         try:
             movie_info_parent_tag = driver.find_element_by_xpath(xpath)
+            movie_info_tags = movie_info_parent_tag.find_elements(By.TAG_NAME, 'li')
+            
+            movie_info_tags = movie_info_parent_tag.find_elements(By.TAG_NAME, 'li')
+
+            for row in movie_info_tags:
+                key, val = [r.text for r in row.find_elements(By.TAG_NAME, 'div')]
+                tomato_dic[key.split(':')[0]] = val
+
             break
         except:
-            if k == 4:
-                raise Exception("Movie Info Table was not found")
+            ...
 
-    movie_info_tags = movie_info_parent_tag.find_elements(By.TAG_NAME, 'li')
-
-    for row in movie_info_tags:
-        key, val = [r.text for r in row.find_elements(By.TAG_NAME, 'div')]
-        tomato_dic[key.split(':')[0]] = val
-
+    
     score_xpaths = {
         'Synopsis':
             '//*[@id="topSection"]/div[2]/div[1]/section/p',
@@ -188,11 +190,12 @@ def get_filename():
 def main():
 
     json_file = get_filename()
-    init_year = 2010
-    final_year = 2011
+    init_year = 1990
+    final_year = 2004
     while True:
 
         year = get_current_year(init_year, final_year)
+        print(year)
 
         if year is None:
             print('All years have been scraped...')
