@@ -1,2 +1,4 @@
 data
 src/core
+oracle-xe
+cx_oracle

@@ -1,6 +1,10 @@
-# rotten_tomatoes
+# Rotten_tomatoes
 
-## Docker
+Rotten tomatoes scraper and database
+
+## Scrapper
+
+### Docker
 
 Build image
 
@@ -15,3 +19,15 @@ docker run --rm -it  -v $PWD:/wd -w /wd -v /dev/shm:/dev/shm -p 5000:5000 seleni
 ```
 
 Run script inside src folder
+
+## Oracle Database
+
+### Docker-compose
+
+Run
+
+```shell
+docker-compose up
+```
+
+

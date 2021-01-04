@@ -1,0 +1,23 @@
+version: "3"
+services:
+  db:
+    image: oracle/database:18.4.0-xe
+    ports:
+      - "1521:1521"
+      - "5500:5500"
+    environment: 
+      - ORACLE_PWD=password123 
+    volumes: 
+      - "$PWD/oracle-xe:/opt/oracle/oradata"
+  jupy:
+    image: ejimenezr/jupy-dark
+    ports:
+      - "8888:8888"
+    environment: 
+      -  NB_USER=enrique
+      -  JUPYTER_ENABLE_LAB=yes
+    volumes:
+      #- ./data:/wd/data
+      #- ./nbs:/wd/nbs
+      - .:/wd
+    working_dir: /wd  
